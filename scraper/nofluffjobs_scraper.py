@@ -40,3 +40,39 @@ company = first_card.find("h4", class_="company-name")
 print("Title:", title.text.strip())
 print("Company:", company.text.strip())
 
+# Salary and skill tags share the same class ("posting-tag").
+# The first one found is always the salary; the rest are skills.
+
+tags = first_card.find_all("span", class_="posting-tag")
+salary = tags[0].text.strip()
+skills = [tag.text.strip() for tag in tags[1:]]
+
+# Location lives in a custom HTML element, not a standard tag.
+location = first_card.find("nfj-posting-item-city")
+
+print("Salary:", salary)
+print("Skills:", skills)
+print("Location:", location.text.strip())
+
+# Collect all job offers into a list of dictionaries —
+# one dictionary per offer, ready to be turned into a table later.
+jobs = []
+
+for card in job_cards:
+    title = card.find("h3")
+    company = card.find("h4", class_="company-name")
+    location = card.find("nfj-posting-item-city")
+    tags = card.find_all("span", class_="posting-tag")
+
+    job = {
+        "title": title.text.strip(),
+        "company": company.text.strip(),
+        "location": location.text.strip(),
+        "salary": tags[0].text.strip() if tags else None,
+        "skills": [tag.text.strip() for tag in tags[1:]] if tags else [],
+    }
+    jobs.append(job)
+
+print("Total jobs collected:", len(jobs))
+print(jobs[0])
+print(jobs[1])
