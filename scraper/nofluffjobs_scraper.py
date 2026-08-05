@@ -29,6 +29,7 @@ def scrape_page(page_number):
             "location": location.text.strip(),
             "salary": tags[0].text.strip() if tags else None,
             "skills": [tag.text.strip() for tag in tags[1:]] if tags else [],
+            "link": card["href"],
         }
         page_jobs.append(job)
 
@@ -46,3 +47,12 @@ for page_num in range(1, 4):
     all_jobs.extend(scrape_page(page_num))
 
 print("Total jobs collected:", len(all_jobs))
+
+# Deduplicate by link — a dict automatically keeps only one entry per key,
+# so storing jobs keyed by their unique link removes duplicates in one step.
+unique_jobs = {job["link"]: job for job in all_jobs}.values()
+unique_jobs = list(unique_jobs)
+
+print("Total scraped (with duplicates):", len(all_jobs))
+print("Unique jobs:", len(unique_jobs))
+
