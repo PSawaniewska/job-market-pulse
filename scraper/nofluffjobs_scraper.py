@@ -4,6 +4,9 @@ Fetches search results for a given job title and extracts key fields:
 title, company, salary, location, and required skills.
 """
 
+import json
+import time
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -42,17 +45,34 @@ headers = {
 }
 
 all_jobs = []
-for page_num in range(1, 4):
+seen_links = set()
+page_num = 1
+max_pages = 30  # safety limit — stop even if the end-of-results check misbehaves
+
+while page_num <= max_pages:
     print(f"Scraping page {page_num}...")
-    all_jobs.extend(scrape_page(page_num))
+    page_jobs = scrape_page(page_num)
 
-print("Total jobs collected:", len(all_jobs))
+    new_jobs = [job for job in page_jobs if job["link"] not in seen_links]
 
-# Deduplicate by link — a dict automatically keeps only one entry per key,
-# so storing jobs keyed by their unique link removes duplicates in one step.
-unique_jobs = {job["link"]: job for job in all_jobs}.values()
-unique_jobs = list(unique_jobs)
+    # If a page adds no new unique offers, we've likely reached the end
+    # of available results (pagination stops giving new content).
+    if not new_jobs:
+        print("No new jobs found — stopping.")
+        break
 
-print("Total scraped (with duplicates):", len(all_jobs))
-print("Unique jobs:", len(unique_jobs))
+    for job in new_jobs:
+        all_jobs.append(job)
+        seen_links.add(job["link"])
 
+    page_num += 1
+    time.sleep(1.5)  # be polite to the server — don't hammer it with requests
+
+print("Total unique jobs collected:", len(all_jobs))
+
+# Save the raw scraped data to disk, so later steps (cleaning, analysis)
+# don't need to re-scrape the site every time.
+with open("../data/raw/jobs_raw.json", "w", encoding="utf-8") as f:
+    json.dump(all_jobs, f, ensure_ascii=False, indent=2)
+
+print("Saved", len(all_jobs), "jobs to data/raw/jobs_raw.json")
