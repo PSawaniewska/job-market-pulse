@@ -1,6 +1,6 @@
 """
 Scraper for NoFluffJobs.com job listings.
-Fetches search results for a given job title and extracts key fields:
+Fetches search results for several related job titles and extracts key fields:
 title, company, salary, location, and required skills.
 """
 
@@ -11,9 +11,10 @@ import requests
 from bs4 import BeautifulSoup
 
 
-def scrape_page(page_number):
-    """Fetch one results page and return a list of job dicts."""
-    url = f"https://nofluffjobs.com/pl/?criteria=jobPosition%3D%27data%20analyst%27&page={page_number}"
+def scrape_page(search_term, page_number):
+    """Fetch one results page for a given search term and return a list of job dicts."""
+    encoded_term = search_term.replace(" ", "%20")
+    url = f"https://nofluffjobs.com/pl/?criteria=jobPosition%3D%27{encoded_term}%27&page={page_number}"
 
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.text, "html.parser")
@@ -44,29 +45,35 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
 
+# Related job titles — broadens coverage beyond the site's per-search
+# pagination cap (~90-100 results), while staying on-topic for the
+# Data Analyst job market.
+search_terms = ["data analyst", "junior data analyst", "business analyst", "bi analyst"]
+
+max_pages = 30  # safety limit per search term
 all_jobs = []
 seen_links = set()
-page_num = 1
-max_pages = 30  # safety limit — stop even if the end-of-results check misbehaves
 
-while page_num <= max_pages:
-    print(f"Scraping page {page_num}...")
-    page_jobs = scrape_page(page_num)
+for search_term in search_terms:
+    print(f"--- Searching: {search_term} ---")
+    page_num = 1
 
-    new_jobs = [job for job in page_jobs if job["link"] not in seen_links]
+    while page_num <= max_pages:
+        print(f"Scraping page {page_num}...")
+        page_jobs = scrape_page(search_term, page_num)
 
-    # If a page adds no new unique offers, we've likely reached the end
-    # of available results (pagination stops giving new content).
-    if not new_jobs:
-        print("No new jobs found — stopping.")
-        break
+        new_jobs = [job for job in page_jobs if job["link"] not in seen_links]
 
-    for job in new_jobs:
-        all_jobs.append(job)
-        seen_links.add(job["link"])
+        if not new_jobs:
+            print("No new jobs found — stopping this search term.")
+            break
 
-    page_num += 1
-    time.sleep(1.5)  # be polite to the server — don't hammer it with requests
+        for job in new_jobs:
+            all_jobs.append(job)
+            seen_links.add(job["link"])
+
+        page_num += 1
+        time.sleep(1.5)  # be polite to the server — don't hammer it with requests :)
 
 print("Total unique jobs collected:", len(all_jobs))
 
