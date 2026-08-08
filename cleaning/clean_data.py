@@ -99,4 +99,23 @@ df["has_english"] = df["skills"].apply(check_english)
 
 # --- Skills processing ---
 
+# Explode into a separate DataFrame — one row per (offer, skill) pair,
+# used only for skill-frequency analysis, not for salary/location stats,
+# where one row must still equal one offer.
+df_skills = df.explode("skills")
+
+# Merge known duplicate tags: same skill, different capitalization or
+# singular/plural form. Other minor variants (e.g. spelling, language)
+# are left as-is — see NOTES.md.
+df_skills["skills"] = df_skills["skills"].replace({
+    "Business analysis": "Business Analysis",
+    "REST APIs": "REST API",
+})
+
+# "Business Analyst" is a job role, not a skill — it was tagged on offers
+# by the site alongside real skills. At 53 occurrences it's frequent enough
+# to distort a top-skills ranking, so we exclude it. Other role-like tags
+# (e.g. "Project Manager", "Product Manager") appear too rarely to affect
+# the ranking and are left as-is.
+df_skills = df_skills[df_skills["skills"] != "Business Analyst"]
 

@@ -31,3 +31,10 @@ Running list of data limitations and decisions to include in the final README.
   Offers that mention English only within the full job description
   (not accessible due to robots.txt) are recorded as False, so the true
   share of English-requiring offers may be higher than shown.
+
+- **Role tags mixed with skill tags**: the site tags some offers with job
+  role names (e.g. "Business Analyst", "Project Manager") alongside actual
+  skills, since both use the same tag type. Only "Business Analyst" (53
+  occurrences) was removed, as it was frequent enough to distort a
+  top-skills ranking; rarer role tags were left, as they don't affect
+  the ranking in practice.
