@@ -25,3 +25,9 @@ Running list of data limitations and decisions to include in the final README.
   search terms ("data analyst", "junior data analyst", "business analyst",
   "bi analyst") and deduplicated by URL. This broadens the dataset beyond
   strictly "Data Analyst"-titled postings.
+
+- **English requirement likely underrepresented**: `has_english` is True
+  only when "Język angielski"/"angielski" appears as an explicit skill tag.
+  Offers that mention English only within the full job description
+  (not accessible due to robots.txt) are recorded as False, so the true
+  share of English-requiring offers may be higher than shown.

@@ -78,12 +78,25 @@ df["location"] = df["location"].replace({
     "Gdansk": "Gdańsk",
 })
 
-# Removing offers from abroad — we're only analyzing the job market in Poland.
+# Remove offers from abroad — we're only analyzing the job market in Poland.
 foreign_locations = ["International", "Budapest  , HU", "Singapur  , SG", "Tirana  , AL"]
 df = df[~df["location"].isin(foreign_locations)]
 
+# Add is_remote column to differentiate remote offers from the stationary ones.
 df["is_remote"] = df["location"] == "Zdalnie"
-print(df["is_remote"].value_counts())
 
+# --- Language requirement flag ---
+
+# Checked all unique skill tags in the dataset beforehand — English
+# requirements are recorded only as "Język angielski" or "angielski",
+# so no other variants need to be handled here.
+def check_english(skills_list):
+    if "Język angielski" in skills_list or "angielski" in skills_list:
+        return True
+    return False
+
+df["has_english"] = df["skills"].apply(check_english)
 
 # --- Skills processing ---
+
+
