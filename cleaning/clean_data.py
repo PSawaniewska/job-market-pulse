@@ -58,8 +58,28 @@ print(df.info())
 # This affects only ~1% of offers, so the impact on overall analysis is minimal.
 
 # --- Location cleaning ---
-# (kolejny etap)
 
+# Remove the non-breaking space character (\xa0), same issue as in salary.
+df["location"] = df["location"].str.replace("\xa0", "", regex=False)
+
+# Some offers list a main location followed by "+N" (extra locations,
+# e.g. "Warszawa +2" or "Zdalnie +1"). For our analysis, only the first/main
+# location matters, so we keep everything before the "+" and drop the rest.
+df["location"] = df["location"].str.split("+").str[0]
+
+# Remove leftover whitespace from splitting.
+df["location"] = df["location"].str.strip()
+
+# Standardize city name variants found via .value_counts() during exploration
+# (e.g. "Cracow"/"Kraków", "Warsaw"/"Warszawa").
+df["location"] = df["location"].replace({
+    "Cracow": "Kraków",
+    "Warsaw": "Warszawa",
+    "Gdansk": "Gdańsk",
+})
+
+# Removing offers from abroad — we're only analyzing the job market in Poland.
+foreign_locations = ["International", "Budapest  , HU", "Singapur  , SG", "Tirana  , AL"]
+df = df[~df["location"].isin(foreign_locations)]
 
 # --- Skills processing ---
-# (explode na liście skills)
