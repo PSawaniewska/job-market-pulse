@@ -7,9 +7,9 @@ import pandas as pd
 df = pd.read_json("../data/raw/jobs_raw.json")
 
 # --- Initial exploration ---
+
 print(df.head())
 print(df.info())
-
 
 # --- Salary cleaning ---
 
