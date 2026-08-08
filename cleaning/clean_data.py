@@ -82,4 +82,8 @@ df["location"] = df["location"].replace({
 foreign_locations = ["International", "Budapest  , HU", "Singapur  , SG", "Tirana  , AL"]
 df = df[~df["location"].isin(foreign_locations)]
 
+df["is_remote"] = df["location"] == "Zdalnie"
+print(df["is_remote"].value_counts())
+
+
 # --- Skills processing ---
