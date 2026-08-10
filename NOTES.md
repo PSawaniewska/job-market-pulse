@@ -9,11 +9,12 @@ Running list of data limitations and decisions to include in the final README.
   full job descriptions or detail pages. This is the root cause of
   several limitations below.
 
-- **Related job titles included**: to work around the site's ~90-100
-  result cap per single search, data was collected across four related
-  search terms ("data analyst", "junior data analyst", "business analyst",
-  "bi analyst") and deduplicated by URL. This broadens the dataset beyond
-  strictly "Data Analyst"-titled postings.
+- **Related job titles included by design**: since the project scope
+  covers analytical roles broadly (Data, Business, and BI Analyst), data
+  was collected across four related search terms ("data analyst",
+  "junior data analyst", "business analyst", "bi analyst") and
+  deduplicated by URL. This approach also worked around the site's
+  ~90-100 result cap per single search term.
 
 - **Non-analyst offers filtered by title**: search results included some
   offers unrelated to analytical roles (e.g. "Project Manager", "Java
