@@ -1,2 +1,2 @@
 # job-market-pulse
-Scrapes and analyzes analytical job postings in Poland (Data, Business & BI Analyst roles) — skill demand, salary ranges, and remote work trends.
+Scrapes and analyzes the Data & BI Analyst job market in Poland — skill demand, salary ranges, and remote work trends.

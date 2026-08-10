@@ -48,7 +48,7 @@ headers = {
 # Related job titles — broadens coverage beyond the site's per-search
 # pagination cap (~90-100 results), while staying on-topic for the
 # Data Analyst job market.
-search_terms = ["data analyst", "junior data analyst", "business analyst", "bi analyst"]
+search_terms = ["data analyst", "junior data analyst", "bi analyst"]
 
 max_pages = 30  # safety limit per search term
 all_jobs = []

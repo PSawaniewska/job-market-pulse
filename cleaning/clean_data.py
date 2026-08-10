@@ -12,6 +12,17 @@ df = pd.read_json("../data/raw/jobs_raw.json")
 # offers whose title actually relates to analysis/analytics work.
 df = df[df["title"].str.contains("Analyst|Analityk|Analytics|Analiz", case=False, na=False)]
 
+# Business Analyst roles were excluded after reviewing the skill data —
+# they require a distinctly different skill set (UML/BPMN, process
+# modeling) from Data/BI Analyst roles, which this project focuses on.
+# Hybrid titles explicitly mentioning "Data" (e.g. "Data Business Analyst")
+# were kept, as they're closer to the project's actual scope.
+# See NOTES.md for the full comparison of exclusion approaches considered.
+business_analyst_pattern = "Business.{0,3}Analyst|Business.{0,3}System.{0,3}Analyst|System.{0,3}Business.{0,3}Analyst"
+is_pure_business_analyst = df["title"].str.contains(business_analyst_pattern, case=False, na=False, regex=True)
+has_data_in_title = df["title"].str.contains("Data", case=False, na=False)
+df = df[~(is_pure_business_analyst & ~has_data_in_title)]
+
 # --- Initial exploration ---
 print(df.head())
 print(df.info())
@@ -43,10 +54,10 @@ df["salary_min"] = df["salary_min"].str.strip()
 df["salary_min"] = pd.to_numeric(df["salary_min"])
 df["salary_max"] = pd.to_numeric(df["salary_max"])
 
-# Note: offers with only a single flat salary (no max) will have mid_salary
+# Note: offers with only a single flat salary (no max) would have mid_salary
 # as NaN too, rather than falling back to salary_min — treating them as
-# missing data is more honest than assuming min == typical salary.
-# Affects 2 offers (~0.6%), so the impact on overall analysis is minimal.
+# missing data would be more honest than assuming min == typical salary.
+# In this dataset, no offers currently have this issue.
 df["mid_salary"] = (df["salary_min"] + df["salary_max"]) / 2
 
 print(df.info())
@@ -110,13 +121,12 @@ df_skills["skills"] = df_skills["skills"].replace({
     "REST APIs": "REST API",
 })
 
-# "Business Analyst" is a job role, not a skill — it was tagged on offers
-# by the site alongside real skills. At 40 occurrences (after title
-# filtering above) it's frequent enough to distort a top-skills ranking,
-# so we exclude it.
-# "Business Analysis" and "Data" are overly broad category tags rather
-# than actual skills, and "angielski"/"polski" are language requirements,
-# not technical/soft skills — all are excluded from skill-frequency analysis.
+# "Business Analyst" (4 remaining occurrences) and "Business Analysis"
+# (30 occurrences) are excluded — these are job-role/category tags,
+# not skills, and their continued presence even after title-level
+# filtering confirms some hybrid "Data Business Analyst" offers still
+# carry them. "Data" is too broad to be meaningful, and
+# "angielski"/"polski" are language requirements, not skills.
 non_skill_tags = ["Business Analyst", "Business Analysis", "Data", "angielski", "polski"]
 df_skills = df_skills[~df_skills["skills"].isin(non_skill_tags)]
 

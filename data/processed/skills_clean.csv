@@ -188,16 +188,12 @@ Data Analyst,Verita HR,Kraków,25000  – 29000  PLN,Dashboarding,/pl/job/data-a
 Business Data Analyst,Holisticon Connect,Zdalnie,18480  – 23520  PLN,Data analytics,/pl/job/business-data-analyst-holisticon-connect-remote,18480.0,23520.0,21000.0,True,False
 Business Data Analyst,Holisticon Connect,Zdalnie,18480  – 23520  PLN,BI,/pl/job/business-data-analyst-holisticon-connect-remote,18480.0,23520.0,21000.0,True,False
 Business Data Analyst,Holisticon Connect,Zdalnie,18480  – 23520  PLN,Power BI,/pl/job/business-data-analyst-holisticon-connect-remote,18480.0,23520.0,21000.0,True,False
-Global Oracle EDMCS Owner – IT Business Analyst  NOWA,Galderma,Zdalnie,,Oracle,/pl/job/global-oracle-edmcs-owner-it-business-analyst-galderma-remote,,,,True,False
-Global Oracle EDMCS Owner – IT Business Analyst  NOWA,Galderma,Zdalnie,,Data management,/pl/job/global-oracle-edmcs-owner-it-business-analyst-galderma-remote,,,,True,False
 Senior Product Analyst  NOWA,Xebia sp. z o.o.,Zdalnie,21840  – 30240  PLN,SQL,/pl/job/senior-product-analyst-xebia-remote-1,21840.0,30240.0,26040.0,True,False
 Senior Product Analyst  NOWA,Xebia sp. z o.o.,Zdalnie,21840  – 30240  PLN,Python,/pl/job/senior-product-analyst-xebia-remote-1,21840.0,30240.0,26040.0,True,False
 Senior Product Analyst  NOWA,Xebia sp. z o.o.,Zdalnie,21840  – 30240  PLN,Data analysis,/pl/job/senior-product-analyst-xebia-remote-1,21840.0,30240.0,26040.0,True,False
 Lead Analytics Consultant  NOWA,Xebia sp. z o.o.,Zdalnie,18480  – 31920  PLN,Python,/pl/job/lead-analytics-consultant-xebia-remote-2,18480.0,31920.0,25200.0,True,False
 Lead Analytics Consultant  NOWA,Xebia sp. z o.o.,Zdalnie,18480  – 31920  PLN,Spark,/pl/job/lead-analytics-consultant-xebia-remote-2,18480.0,31920.0,25200.0,True,False
 Lead Analytics Consultant  NOWA,Xebia sp. z o.o.,Zdalnie,18480  – 31920  PLN,Azure,/pl/job/lead-analytics-consultant-xebia-remote-2,18480.0,31920.0,25200.0,True,False
-Senior AI Business Analyst / AI Product Engineer (m/f/d)  NOWA,Markant Services International Polska Sp. z o.o.,Zdalnie,,Kanban,/pl/job/senior-ai-business-analyst-ai-product-engineer-m-f-d-markant-services-international-polska-remote,,,,True,False
-Senior AI Business Analyst / AI Product Engineer (m/f/d)  NOWA,Markant Services International Polska Sp. z o.o.,Zdalnie,,Product development,/pl/job/senior-ai-business-analyst-ai-product-engineer-m-f-d-markant-services-international-polska-remote,,,,True,False
 Business Expert – Risk Analytics (m/f/d),CommerzBank,Łódź,,Degree,/pl/job/business-expert-risk-analytics-m-f-d-commerzbank-lodz,,,,False,False
 Business Expert – Risk Analytics (m/f/d),CommerzBank,Łódź,,GRC,/pl/job/business-expert-risk-analytics-m-f-d-commerzbank-lodz,,,,False,False
 Business Expert – Risk Analytics (m/f/d),CommerzBank,Łódź,,SQL,/pl/job/business-expert-risk-analytics-m-f-d-commerzbank-lodz,,,,False,False
@@ -211,8 +207,6 @@ People Analytics Specialist (Data & Strategy),Antal,Wrocław,,HR,/pl/job/people-
 People Analytics Specialist (Data & Strategy),Antal,Wrocław,,Business Intelligence,/pl/job/people-analytics-specialist-data-strategy-antal-wroclaw,,,,False,False
 People Analytics Specialist (Data & Strategy),Antal,Wrocław,,Data analytics,/pl/job/people-analytics-specialist-data-strategy-antal-wroclaw,,,,False,False
 People Analytics Specialist (Data & Strategy),Antal,Wrocław,,HR analytics,/pl/job/people-analytics-specialist-data-strategy-antal-wroclaw,,,,False,False
-Product Owner / Business Analyst,"AVENGA (Agencja Pracy, nr KRAZ: 8448)",Zdalnie,19320  – 21000  PLN,Product Manager,/pl/job/product-owner-business-analyst-avenga-agencja-pracy-nr-kraz-8448-remote,19320.0,21000.0,20160.0,True,False
-Product Owner / Business Analyst,"AVENGA (Agencja Pracy, nr KRAZ: 8448)",Zdalnie,19320  – 21000  PLN,Web and mobile applications,/pl/job/product-owner-business-analyst-avenga-agencja-pracy-nr-kraz-8448-remote,19320.0,21000.0,20160.0,True,False
 Data & Business Analytics Consultant (Controlling),Elitmind,Zdalnie,16800  – 25200  PLN,System analysis,/pl/job/data-business-analytics-consultant-controlling-elitmind-remote,16800.0,25200.0,21000.0,True,False
 Data & Business Analytics Consultant (Controlling),Elitmind,Zdalnie,16800  – 25200  PLN,AI,/pl/job/data-business-analytics-consultant-controlling-elitmind-remote,16800.0,25200.0,21000.0,True,False
 Data & Business Analytics Consultant (Controlling),Elitmind,Zdalnie,16800  – 25200  PLN,Data analysis,/pl/job/data-business-analytics-consultant-controlling-elitmind-remote,16800.0,25200.0,21000.0,True,False
@@ -225,16 +219,12 @@ Data Analyst,Verita HR,Kraków,25000  – 29000  PLN,Dashboarding,/pl/job/data-a
 Business Data Analyst,Holisticon Connect,Zdalnie,18480  – 23520  PLN,Data analytics,/pl/job/business-data-analyst-holisticon-connect-remote,18480.0,23520.0,21000.0,True,False
 Business Data Analyst,Holisticon Connect,Zdalnie,18480  – 23520  PLN,BI,/pl/job/business-data-analyst-holisticon-connect-remote,18480.0,23520.0,21000.0,True,False
 Business Data Analyst,Holisticon Connect,Zdalnie,18480  – 23520  PLN,Power BI,/pl/job/business-data-analyst-holisticon-connect-remote,18480.0,23520.0,21000.0,True,False
-Global Oracle EDMCS Owner – IT Business Analyst  NOWA,Galderma,Zdalnie,,Oracle,/pl/job/global-oracle-edmcs-owner-it-business-analyst-galderma-remote,,,,True,False
-Global Oracle EDMCS Owner – IT Business Analyst  NOWA,Galderma,Zdalnie,,Data management,/pl/job/global-oracle-edmcs-owner-it-business-analyst-galderma-remote,,,,True,False
 Senior Product Analyst  NOWA,Xebia sp. z o.o.,Zdalnie,21840  – 30240  PLN,SQL,/pl/job/senior-product-analyst-xebia-remote-1,21840.0,30240.0,26040.0,True,False
 Senior Product Analyst  NOWA,Xebia sp. z o.o.,Zdalnie,21840  – 30240  PLN,Python,/pl/job/senior-product-analyst-xebia-remote-1,21840.0,30240.0,26040.0,True,False
 Senior Product Analyst  NOWA,Xebia sp. z o.o.,Zdalnie,21840  – 30240  PLN,Data analysis,/pl/job/senior-product-analyst-xebia-remote-1,21840.0,30240.0,26040.0,True,False
 Lead Analytics Consultant  NOWA,Xebia sp. z o.o.,Zdalnie,18480  – 31920  PLN,Python,/pl/job/lead-analytics-consultant-xebia-remote-2,18480.0,31920.0,25200.0,True,False
 Lead Analytics Consultant  NOWA,Xebia sp. z o.o.,Zdalnie,18480  – 31920  PLN,Spark,/pl/job/lead-analytics-consultant-xebia-remote-2,18480.0,31920.0,25200.0,True,False
 Lead Analytics Consultant  NOWA,Xebia sp. z o.o.,Zdalnie,18480  – 31920  PLN,Azure,/pl/job/lead-analytics-consultant-xebia-remote-2,18480.0,31920.0,25200.0,True,False
-Senior AI Business Analyst / AI Product Engineer (m/f/d)  NOWA,Markant Services International Polska Sp. z o.o.,Zdalnie,,Kanban,/pl/job/senior-ai-business-analyst-ai-product-engineer-m-f-d-markant-services-international-polska-remote,,,,True,False
-Senior AI Business Analyst / AI Product Engineer (m/f/d)  NOWA,Markant Services International Polska Sp. z o.o.,Zdalnie,,Product development,/pl/job/senior-ai-business-analyst-ai-product-engineer-m-f-d-markant-services-international-polska-remote,,,,True,False
 Business Expert – Risk Analytics (m/f/d),CommerzBank,Łódź,,Degree,/pl/job/business-expert-risk-analytics-m-f-d-commerzbank-lodz,,,,False,False
 Business Expert – Risk Analytics (m/f/d),CommerzBank,Łódź,,GRC,/pl/job/business-expert-risk-analytics-m-f-d-commerzbank-lodz,,,,False,False
 Business Expert – Risk Analytics (m/f/d),CommerzBank,Łódź,,SQL,/pl/job/business-expert-risk-analytics-m-f-d-commerzbank-lodz,,,,False,False
@@ -248,411 +238,23 @@ People Analytics Specialist (Data & Strategy),Antal,Wrocław,,HR,/pl/job/people-
 People Analytics Specialist (Data & Strategy),Antal,Wrocław,,Business Intelligence,/pl/job/people-analytics-specialist-data-strategy-antal-wroclaw,,,,False,False
 People Analytics Specialist (Data & Strategy),Antal,Wrocław,,Data analytics,/pl/job/people-analytics-specialist-data-strategy-antal-wroclaw,,,,False,False
 People Analytics Specialist (Data & Strategy),Antal,Wrocław,,HR analytics,/pl/job/people-analytics-specialist-data-strategy-antal-wroclaw,,,,False,False
-Product Owner / Business Analyst,"AVENGA (Agencja Pracy, nr KRAZ: 8448)",Zdalnie,19320  – 21000  PLN,Product Manager,/pl/job/product-owner-business-analyst-avenga-agencja-pracy-nr-kraz-8448-remote,19320.0,21000.0,20160.0,True,False
-Product Owner / Business Analyst,"AVENGA (Agencja Pracy, nr KRAZ: 8448)",Zdalnie,19320  – 21000  PLN,Web and mobile applications,/pl/job/product-owner-business-analyst-avenga-agencja-pracy-nr-kraz-8448-remote,19320.0,21000.0,20160.0,True,False
 Data & Business Analytics Consultant (Controlling),Elitmind,Zdalnie,16800  – 25200  PLN,System analysis,/pl/job/data-business-analytics-consultant-controlling-elitmind-remote,16800.0,25200.0,21000.0,True,False
 Data & Business Analytics Consultant (Controlling),Elitmind,Zdalnie,16800  – 25200  PLN,AI,/pl/job/data-business-analytics-consultant-controlling-elitmind-remote,16800.0,25200.0,21000.0,True,False
 Data & Business Analytics Consultant (Controlling),Elitmind,Zdalnie,16800  – 25200  PLN,Data analysis,/pl/job/data-business-analytics-consultant-controlling-elitmind-remote,16800.0,25200.0,21000.0,True,False
-Business Analyst  NOWA,Scalo,Warszawa,21840  – 23520  PLN,CRM,/pl/job/business-analyst-scalo-warszawa-27,21840.0,23520.0,22680.0,False,False
-Business Analyst  NOWA,Scalo,Warszawa,21840  – 23520  PLN,Jira,/pl/job/business-analyst-scalo-warszawa-27,21840.0,23520.0,22680.0,False,False
-Business Analyst  NOWA,Scalo,Warszawa,21840  – 23520  PLN,Confluence,/pl/job/business-analyst-scalo-warszawa-27,21840.0,23520.0,22680.0,False,False
-Senior Business-System Analyst  NOWA,Scalo,Łódź,21840  – 23520  PLN,R,/pl/job/senior-business-system-analyst-scalo-lodz-1,21840.0,23520.0,22680.0,False,True
-Business Analyst  NOWA,Scalo,Warszawa,19320  – 21000  PLN,Jira,/pl/job/business-analyst-scalo-warszawa-26,19320.0,21000.0,20160.0,False,False
-Business Analyst  NOWA,Scalo,Warszawa,19320  – 21000  PLN,Confluence,/pl/job/business-analyst-scalo-warszawa-26,19320.0,21000.0,20160.0,False,False
-Business Analyst  NOWA,Scalo,Warszawa,19320  – 21000  PLN,SAFe,/pl/job/business-analyst-scalo-warszawa-26,19320.0,21000.0,20160.0,False,False
-Senior Technical Business Analyst   NOWA,Verita HR,Kraków,23520  – 30240  PLN,Data analysis,/pl/job/senior-technical-business-analyst-verita-hr-krakow,23520.0,30240.0,26880.0,False,False
-Senior Technical Business Analyst   NOWA,Verita HR,Kraków,23520  – 30240  PLN,Data management,/pl/job/senior-technical-business-analyst-verita-hr-krakow,23520.0,30240.0,26880.0,False,False
-IT Business Analyst (Workday)  NOWA,Square One Resources,Zdalnie,13440  – 20160  PLN,Workday,/pl/job/it-business-analyst-workday-square-one-resources-remote,13440.0,20160.0,16800.0,True,True
-IT Business Analyst for AI  NOWA,Galderma,Kraków,,AI/ML,/pl/job/it-business-analyst-for-ai-galderma-krakow-1,,,,False,False
-IT Business Analyst for AI  NOWA,Galderma,Kraków,,AI,/pl/job/it-business-analyst-for-ai-galderma-krakow-1,,,,False,False
-IT Business Analyst for AI  NOWA,Galderma,Kraków,,Automation,/pl/job/it-business-analyst-for-ai-galderma-krakow-1,,,,False,False
-Senior Business Analyst [M/F]  NOWA,Arche Solutions,Zdalnie,26880  – 31920  PLN,Administracja biurowa,/pl/job/senior-business-analyst-m-f-arche-solutions-remote,26880.0,31920.0,29400.0,True,False
-Senior Business Analyst [M/F]  NOWA,Arche Solutions,Zdalnie,26880  – 31920  PLN,UML,/pl/job/senior-business-analyst-m-f-arche-solutions-remote,26880.0,31920.0,29400.0,True,False
-Senior Business Analyst [M/F]  NOWA,Arche Solutions,Zdalnie,26880  – 31920  PLN,BPMN,/pl/job/senior-business-analyst-m-f-arche-solutions-remote,26880.0,31920.0,29400.0,True,False
-Senior Business Analyst [M/F]  NOWA,Arche Solutions,Zdalnie,26880  – 31920  PLN,Enterprise Architect,/pl/job/senior-business-analyst-m-f-arche-solutions-remote,26880.0,31920.0,29400.0,True,False
-Valuation Control Business Analyst  NOWA,Belvedere Recruitment,Kraków,,Degree,/pl/job/valuation-control-business-analyst-belvedere-recruitment-krakow,,,,False,False
-Valuation Control Business Analyst  NOWA,Belvedere Recruitment,Kraków,,Financial instruments,/pl/job/valuation-control-business-analyst-belvedere-recruitment-krakow,,,,False,False
-Valuation Control Business Analyst  NOWA,Belvedere Recruitment,Kraków,,Excel,/pl/job/valuation-control-business-analyst-belvedere-recruitment-krakow,,,,False,False
-IDPP Technical Business Analyst  NOWA,Mindbox Sp. z o.o.,Kraków,21000  – 25200  PLN,IAM,/pl/job/idpp-technical-business-analyst-mindbox-krakow,21000.0,25200.0,23100.0,False,False
-IDPP Technical Business Analyst  NOWA,Mindbox Sp. z o.o.,Kraków,21000  – 25200  PLN,AD,/pl/job/idpp-technical-business-analyst-mindbox-krakow,21000.0,25200.0,23100.0,False,False
-IT Business Analyst (K/M) K/M  NOWA,ASTEK Polska,Warszawa,16800  – 21000  PLN,MS Office,/pl/job/it-business-analyst-k-m-k-m-astek-polska-warszawa-2,16800.0,21000.0,18900.0,False,False
-Senior Business Analyst   NOWA,Belvedere Recruitment,Kraków,20160  – 26880  PLN,Project management,/pl/job/senior-business-analyst-belvedere-recruitment-krakow,20160.0,26880.0,23520.0,False,False
-Senior Business Analyst   NOWA,Belvedere Recruitment,Kraków,20160  – 26880  PLN,Confluence,/pl/job/senior-business-analyst-belvedere-recruitment-krakow,20160.0,26880.0,23520.0,False,False
-Business Analyst - Valuations & Analytics  NOWA,Belvedere Recruitment,Kraków,20160  – 30240  PLN,Stakeholder management,/pl/job/business-analyst-valuations-analytics-belvedere-recruitment-krakow,20160.0,30240.0,25200.0,False,False
-Business Analyst - Valuations & Analytics  NOWA,Belvedere Recruitment,Kraków,20160  – 30240  PLN,Derivatives,/pl/job/business-analyst-valuations-analytics-belvedere-recruitment-krakow,20160.0,30240.0,25200.0,False,False
-Business Analyst - Valuations & Analytics  NOWA,Belvedere Recruitment,Kraków,20160  – 30240  PLN,IFRS,/pl/job/business-analyst-valuations-analytics-belvedere-recruitment-krakow,20160.0,30240.0,25200.0,False,False
-IT Business Analyst  NOWA,Eversis,Zdalnie,19000  – 21000  PLN,AI,/pl/job/it-business-analyst-eversis-remote-3,19000.0,21000.0,20000.0,True,False
-IT Business Analyst  NOWA,Eversis,Zdalnie,19000  – 21000  PLN,Requirements analysis,/pl/job/it-business-analyst-eversis-remote-3,19000.0,21000.0,20000.0,True,False
-Technical Business Analyst  NOWA,Link Group,Zdalnie,20000  – 24000  PLN,System integration,/pl/job/technical-business-analyst-link-group-remote-1,20000.0,24000.0,22000.0,True,False
-Technical Business Analyst  NOWA,Link Group,Zdalnie,20000  – 24000  PLN,API,/pl/job/technical-business-analyst-link-group-remote-1,20000.0,24000.0,22000.0,True,False
-Business Analyst (Manufacturing)  NOWA,Square One Resources,Poznań,16800  – 25200  PLN,MES,/pl/job/business-analyst-manufacturing-square-one-resources-poznan,16800.0,25200.0,21000.0,False,False
-Business Analyst (Manufacturing)  NOWA,Square One Resources,Poznań,16800  – 25200  PLN,SCADA,/pl/job/business-analyst-manufacturing-square-one-resources-poznan,16800.0,25200.0,21000.0,False,False
-Business Analyst (Manufacturing)  NOWA,Square One Resources,Poznań,16800  – 25200  PLN,ERP,/pl/job/business-analyst-manufacturing-square-one-resources-poznan,16800.0,25200.0,21000.0,False,False
-Business Analyst  NOWA,Scalo,Warszawa,18480  – 20160  PLN,CRM,/pl/job/business-analyst-scalo-warszawa-22,18480.0,20160.0,19320.0,False,False
-Business Analyst  NOWA,Scalo,Warszawa,18480  – 20160  PLN,R,/pl/job/business-analyst-scalo-warszawa-22,18480.0,20160.0,19320.0,False,False
-Business Analyst  NOWA,Scalo,Warszawa,18480  – 20160  PLN,ERP,/pl/job/business-analyst-scalo-warszawa-22,18480.0,20160.0,19320.0,False,False
-Business Analyst   NOWA,"AVENGA (Agencja Pracy, nr KRAZ: 8448)",Warszawa,23520  – 26880  PLN,GRC,/pl/job/business-analyst-avenga-agencja-pracy-nr-kraz-8448-warszawa,23520.0,26880.0,25200.0,False,False
-Business Analyst   NOWA,"AVENGA (Agencja Pracy, nr KRAZ: 8448)",Warszawa,23520  – 26880  PLN,Requirements gathering,/pl/job/business-analyst-avenga-agencja-pracy-nr-kraz-8448-warszawa,23520.0,26880.0,25200.0,False,False
-Creatio Business Analyst | Ukraine  NOWA,Deloitte,Zdalnie,,CRM,/pl/job/creatio-business-analyst-ukraine-deloitte-remote,,,,True,False
-Creatio Business Analyst | Ukraine  NOWA,Deloitte,Zdalnie,,BPM,/pl/job/creatio-business-analyst-ukraine-deloitte-remote,,,,True,False
-Creatio Business Analyst | Ukraine  NOWA,Deloitte,Zdalnie,,REST API,/pl/job/creatio-business-analyst-ukraine-deloitte-remote,,,,True,False
-Senior Business Analyst (Praca hybrydowa – Warszawa)   NOWA,IT TALENTO,Warszawa,13800  – 21200  PLN,SQL,/pl/job/senior-business-analyst-praca-hybrydowa-warszawa-it-talento-warszawa,13800.0,21200.0,17500.0,False,False
-Senior Business Analyst (Praca hybrydowa – Warszawa)   NOWA,IT TALENTO,Warszawa,13800  – 21200  PLN,Payments,/pl/job/senior-business-analyst-praca-hybrydowa-warszawa-it-talento-warszawa,13800.0,21200.0,17500.0,False,False
-Business Analyst – Strategy & Development  NOWA,Antal,Katowice,,Finance,/pl/job/business-analyst-strategy-development-antal-katowice,,,,False,False
-Business Analyst – Strategy & Development  NOWA,Antal,Katowice,,Economics,/pl/job/business-analyst-strategy-development-antal-katowice,,,,False,False
-Business Analyst – Strategy & Development  NOWA,Antal,Katowice,,Business,/pl/job/business-analyst-strategy-development-antal-katowice,,,,False,False
-Senior Business / System Analyst  NOWA,B2B Soft,Zdalnie,,SQL Server,/pl/job/senior-business-system-analyst-b2b-soft-remote-12,,,,True,False
-Senior Business / System Analyst  NOWA,B2B Soft,Zdalnie,,Data models,/pl/job/senior-business-system-analyst-b2b-soft-remote-12,,,,True,False
-Business Analyst  NOWA,Verita HR,Kraków,24150  – 26250  PLN,SQL,/pl/job/business-analyst-verita-hr-krakow-9,24150.0,26250.0,25200.0,False,True
-Business Analyst  NOWA,Verita HR,Kraków,24150  – 26250  PLN,ESG,/pl/job/business-analyst-verita-hr-krakow-9,24150.0,26250.0,25200.0,False,True
-Business Analyst  NOWA,Verita HR,Kraków,25200  – 27300  PLN,Stakeholder management,/pl/job/business-analyst-verita-hr-krakow-8,25200.0,27300.0,26250.0,False,False
-Business Analyst  NOWA,Verita HR,Kraków,25200  – 27300  PLN,BPMN,/pl/job/business-analyst-verita-hr-krakow-8,25200.0,27300.0,26250.0,False,False
-IT Business Analyst  NOWA,Verita HR,Kraków,25000  – 28900  PLN,Agile,/pl/job/it-business-analyst-verita-hr-krakow,25000.0,28900.0,26950.0,False,False
-IT Business Analyst  NOWA,Verita HR,Kraków,25000  – 28900  PLN,Excel,/pl/job/it-business-analyst-verita-hr-krakow,25000.0,28900.0,26950.0,False,False
-Business Analyst (Collateral Management)  NOWA,Devire,Zdalnie,18480  – 21840  PLN,Python,/pl/job/business-analyst-collateral-management-devire-remote,18480.0,21840.0,20160.0,True,False
-Business Analyst (Collateral Management)  NOWA,Devire,Zdalnie,18480  – 21840  PLN,pandas,/pl/job/business-analyst-collateral-management-devire-remote,18480.0,21840.0,20160.0,True,False
-Business Analyst (Collateral Management)  NOWA,Devire,Zdalnie,18480  – 21840  PLN,NumPy,/pl/job/business-analyst-collateral-management-devire-remote,18480.0,21840.0,20160.0,True,False
-Business Analyst   NOWA,Verita HR,Kraków,23000  – 28500  PLN,Scrum,/pl/job/business-analyst-verita-hr-krakow-2,23000.0,28500.0,25750.0,False,False
-Business Analyst   NOWA,Verita HR,Kraków,23000  – 28500  PLN,Problem solving,/pl/job/business-analyst-verita-hr-krakow-2,23000.0,28500.0,25750.0,False,False
-Business Analyst  NOWA,Scalo,Zdalnie,19320  – 21000  PLN,BPMN,/pl/job/business-analyst-scalo-remote-6,19320.0,21000.0,20160.0,True,False
-Business Analyst  NOWA,Scalo,Zdalnie,19320  – 21000  PLN,UML,/pl/job/business-analyst-scalo-remote-6,19320.0,21000.0,20160.0,True,False
-Business Analyst  NOWA,Scalo,Zdalnie,19320  – 21000  PLN,Jira,/pl/job/business-analyst-scalo-remote-6,19320.0,21000.0,20160.0,True,False
-Technical Business Analyst  NOWA,Mindbox Sp. z o.o.,Kraków,23100  – 26250  PLN,Data concepts,/pl/job/technical-business-analyst-mindbox-krakow-5,23100.0,26250.0,24675.0,False,False
-Technical Business Analyst  NOWA,Mindbox Sp. z o.o.,Kraków,23100  – 26250  PLN,Data platforms,/pl/job/technical-business-analyst-mindbox-krakow-5,23100.0,26250.0,24675.0,False,False
-Technical Business Analyst  NOWA,Mindbox Sp. z o.o.,Kraków,23100  – 26250  PLN,Metadata,/pl/job/technical-business-analyst-mindbox-krakow-5,23100.0,26250.0,24675.0,False,False
-Business Analyst (MFA / IAM)  NOWA,Antal,Kraków,23520  – 28560  PLN,IT Analysis,/pl/job/business-analyst-mfa-iam-antal-krakow-1,23520.0,28560.0,26040.0,False,False
-Business Analyst (MFA / IAM)  NOWA,Antal,Kraków,23520  – 28560  PLN,Analytical skills,/pl/job/business-analyst-mfa-iam-antal-krakow-1,23520.0,28560.0,26040.0,False,False
-Business Analyst - Murex  NOWA,Vistulo (for a major N. American bank),Zdalnie,33600  – 40320  PLN,Product Management,/pl/job/business-analyst-murex-vistulo-for-a-major-n-american-bank-remote,33600.0,40320.0,36960.0,True,False
-Business Analyst - Murex  NOWA,Vistulo (for a major N. American bank),Zdalnie,33600  – 40320  PLN,Murex,/pl/job/business-analyst-murex-vistulo-for-a-major-n-american-bank-remote,33600.0,40320.0,36960.0,True,False
-Business Analyst - Murex  NOWA,Vistulo (for a major N. American bank),Zdalnie,33600  – 40320  PLN,FX Trading systems,/pl/job/business-analyst-murex-vistulo-for-a-major-n-american-bank-remote,33600.0,40320.0,36960.0,True,False
-Business Analyst - Murex  NOWA,Vistulo (for a major N. American bank),Zdalnie,33600  – 40320  PLN,Market data,/pl/job/business-analyst-murex-vistulo-for-a-major-n-american-bank-remote,33600.0,40320.0,36960.0,True,False
-Senior SAP SD Business Analyst  NOWA,iTeamly,Warszawa,35000  – 45000  PLN,ERP,/pl/job/senior-sap-sd-business-analyst-iteamly-warszawa,35000.0,45000.0,40000.0,False,False
-Senior SAP SD Business Analyst  NOWA,iTeamly,Warszawa,35000  – 45000  PLN,SAP,/pl/job/senior-sap-sd-business-analyst-iteamly-warszawa,35000.0,45000.0,40000.0,False,False
-Senior SAP SD Business Analyst  NOWA,iTeamly,Warszawa,35000  – 45000  PLN,Distributed systems,/pl/job/senior-sap-sd-business-analyst-iteamly-warszawa,35000.0,45000.0,40000.0,False,False
-Senior SAP SD Business Analyst  NOWA,iTeamly,Warszawa,35000  – 45000  PLN,Event-Driven Architecture,/pl/job/senior-sap-sd-business-analyst-iteamly-warszawa,35000.0,45000.0,40000.0,False,False
-Business Analyst  NOWA,Synechron,Kraków,,MI,/pl/job/business-analyst-synechron-krakow,,,,False,False
-Business Analyst  NOWA,Synechron,Kraków,,Credit Risk,/pl/job/business-analyst-synechron-krakow,,,,False,False
-Business Analyst  NOWA,Synechron,Kraków,,Analyzing data,/pl/job/business-analyst-synechron-krakow,,,,False,False
-Senior Business Analyst (Praca hybrydowa – Warszawa)   NOWA,IT TALENTO,Warszawa,13800  – 21200  PLN,SQL,/pl/job/senior-business-analyst-praca-hybrydowa-warszawa-it-talento-warszawa,13800.0,21200.0,17500.0,False,False
-Senior Business Analyst (Praca hybrydowa – Warszawa)   NOWA,IT TALENTO,Warszawa,13800  – 21200  PLN,Payments,/pl/job/senior-business-analyst-praca-hybrydowa-warszawa-it-talento-warszawa,13800.0,21200.0,17500.0,False,False
-Business Analyst – Strategy & Development  NOWA,Antal,Katowice,,Finance,/pl/job/business-analyst-strategy-development-antal-katowice,,,,False,False
-Business Analyst – Strategy & Development  NOWA,Antal,Katowice,,Economics,/pl/job/business-analyst-strategy-development-antal-katowice,,,,False,False
-Business Analyst – Strategy & Development  NOWA,Antal,Katowice,,Business,/pl/job/business-analyst-strategy-development-antal-katowice,,,,False,False
-Senior Business / System Analyst  NOWA,B2B Soft,Zdalnie,,SQL Server,/pl/job/senior-business-system-analyst-b2b-soft-remote-12,,,,True,False
-Senior Business / System Analyst  NOWA,B2B Soft,Zdalnie,,Data models,/pl/job/senior-business-system-analyst-b2b-soft-remote-12,,,,True,False
-Business Analyst  NOWA,Verita HR,Kraków,24150  – 26250  PLN,SQL,/pl/job/business-analyst-verita-hr-krakow-9,24150.0,26250.0,25200.0,False,True
-Business Analyst  NOWA,Verita HR,Kraków,24150  – 26250  PLN,ESG,/pl/job/business-analyst-verita-hr-krakow-9,24150.0,26250.0,25200.0,False,True
-Business Analyst  NOWA,Verita HR,Kraków,25200  – 27300  PLN,Stakeholder management,/pl/job/business-analyst-verita-hr-krakow-8,25200.0,27300.0,26250.0,False,False
-Business Analyst  NOWA,Verita HR,Kraków,25200  – 27300  PLN,BPMN,/pl/job/business-analyst-verita-hr-krakow-8,25200.0,27300.0,26250.0,False,False
-IT Business Analyst  NOWA,Verita HR,Kraków,25000  – 28900  PLN,Agile,/pl/job/it-business-analyst-verita-hr-krakow,25000.0,28900.0,26950.0,False,False
-IT Business Analyst  NOWA,Verita HR,Kraków,25000  – 28900  PLN,Excel,/pl/job/it-business-analyst-verita-hr-krakow,25000.0,28900.0,26950.0,False,False
-Business Analyst (Collateral Management)  NOWA,Devire,Zdalnie,18480  – 21840  PLN,Python,/pl/job/business-analyst-collateral-management-devire-remote,18480.0,21840.0,20160.0,True,False
-Business Analyst (Collateral Management)  NOWA,Devire,Zdalnie,18480  – 21840  PLN,pandas,/pl/job/business-analyst-collateral-management-devire-remote,18480.0,21840.0,20160.0,True,False
-Business Analyst (Collateral Management)  NOWA,Devire,Zdalnie,18480  – 21840  PLN,NumPy,/pl/job/business-analyst-collateral-management-devire-remote,18480.0,21840.0,20160.0,True,False
-Business Analyst   NOWA,Verita HR,Kraków,23000  – 28500  PLN,Scrum,/pl/job/business-analyst-verita-hr-krakow-2,23000.0,28500.0,25750.0,False,False
-Business Analyst   NOWA,Verita HR,Kraków,23000  – 28500  PLN,Problem solving,/pl/job/business-analyst-verita-hr-krakow-2,23000.0,28500.0,25750.0,False,False
-Business Analyst  NOWA,Scalo,Zdalnie,19320  – 21000  PLN,BPMN,/pl/job/business-analyst-scalo-remote-6,19320.0,21000.0,20160.0,True,False
-Business Analyst  NOWA,Scalo,Zdalnie,19320  – 21000  PLN,UML,/pl/job/business-analyst-scalo-remote-6,19320.0,21000.0,20160.0,True,False
-Business Analyst  NOWA,Scalo,Zdalnie,19320  – 21000  PLN,Jira,/pl/job/business-analyst-scalo-remote-6,19320.0,21000.0,20160.0,True,False
-Technical Business Analyst  NOWA,Mindbox Sp. z o.o.,Kraków,23100  – 26250  PLN,Data concepts,/pl/job/technical-business-analyst-mindbox-krakow-5,23100.0,26250.0,24675.0,False,False
-Technical Business Analyst  NOWA,Mindbox Sp. z o.o.,Kraków,23100  – 26250  PLN,Data platforms,/pl/job/technical-business-analyst-mindbox-krakow-5,23100.0,26250.0,24675.0,False,False
-Technical Business Analyst  NOWA,Mindbox Sp. z o.o.,Kraków,23100  – 26250  PLN,Metadata,/pl/job/technical-business-analyst-mindbox-krakow-5,23100.0,26250.0,24675.0,False,False
-Business Analyst (MFA / IAM)  NOWA,Antal,Kraków,23520  – 28560  PLN,IT Analysis,/pl/job/business-analyst-mfa-iam-antal-krakow-1,23520.0,28560.0,26040.0,False,False
-Business Analyst (MFA / IAM)  NOWA,Antal,Kraków,23520  – 28560  PLN,Analytical skills,/pl/job/business-analyst-mfa-iam-antal-krakow-1,23520.0,28560.0,26040.0,False,False
-Business Analyst - Murex  NOWA,Vistulo (for a major N. American bank),Zdalnie,33600  – 40320  PLN,Product Management,/pl/job/business-analyst-murex-vistulo-for-a-major-n-american-bank-remote,33600.0,40320.0,36960.0,True,False
-Business Analyst - Murex  NOWA,Vistulo (for a major N. American bank),Zdalnie,33600  – 40320  PLN,Murex,/pl/job/business-analyst-murex-vistulo-for-a-major-n-american-bank-remote,33600.0,40320.0,36960.0,True,False
-Business Analyst - Murex  NOWA,Vistulo (for a major N. American bank),Zdalnie,33600  – 40320  PLN,FX Trading systems,/pl/job/business-analyst-murex-vistulo-for-a-major-n-american-bank-remote,33600.0,40320.0,36960.0,True,False
-Business Analyst - Murex  NOWA,Vistulo (for a major N. American bank),Zdalnie,33600  – 40320  PLN,Market data,/pl/job/business-analyst-murex-vistulo-for-a-major-n-american-bank-remote,33600.0,40320.0,36960.0,True,False
-Senior SAP SD Business Analyst  NOWA,iTeamly,Warszawa,35000  – 45000  PLN,ERP,/pl/job/senior-sap-sd-business-analyst-iteamly-warszawa,35000.0,45000.0,40000.0,False,False
-Senior SAP SD Business Analyst  NOWA,iTeamly,Warszawa,35000  – 45000  PLN,SAP,/pl/job/senior-sap-sd-business-analyst-iteamly-warszawa,35000.0,45000.0,40000.0,False,False
-Senior SAP SD Business Analyst  NOWA,iTeamly,Warszawa,35000  – 45000  PLN,Distributed systems,/pl/job/senior-sap-sd-business-analyst-iteamly-warszawa,35000.0,45000.0,40000.0,False,False
-Senior SAP SD Business Analyst  NOWA,iTeamly,Warszawa,35000  – 45000  PLN,Event-Driven Architecture,/pl/job/senior-sap-sd-business-analyst-iteamly-warszawa,35000.0,45000.0,40000.0,False,False
-Business Analyst  NOWA,Synechron,Kraków,,MI,/pl/job/business-analyst-synechron-krakow,,,,False,False
-Business Analyst  NOWA,Synechron,Kraków,,Credit Risk,/pl/job/business-analyst-synechron-krakow,,,,False,False
-Business Analyst  NOWA,Synechron,Kraków,,Analyzing data,/pl/job/business-analyst-synechron-krakow,,,,False,False
-Business Analyst  NOWA,Square One Resources,Zdalnie,15120  – 20160  PLN,Workday,/pl/job/business-analyst-square-one-resources-remote,15120.0,20160.0,17640.0,True,False
-Business Analyst  NOWA,Square One Resources,Zdalnie,15120  – 20160  PLN,SAP SuccessFactors,/pl/job/business-analyst-square-one-resources-remote,15120.0,20160.0,17640.0,True,False
-Business Analyst  NOWA,Square One Resources,Zdalnie,15120  – 20160  PLN,Oracle HCM,/pl/job/business-analyst-square-one-resources-remote,15120.0,20160.0,17640.0,True,False
-Business Analyst  NOWA,"AVENGA (Agencja Pracy, nr KRAZ: 8448)",Zdalnie,18480  – 20160  PLN,BPMN,/pl/job/business-analyst-avenga-agencja-pracy-nr-kraz-8448-remote-2,18480.0,20160.0,19320.0,True,False
-Business Analyst  NOWA,"AVENGA (Agencja Pracy, nr KRAZ: 8448)",Zdalnie,18480  – 20160  PLN,UML,/pl/job/business-analyst-avenga-agencja-pracy-nr-kraz-8448-remote-2,18480.0,20160.0,19320.0,True,False
-Business Analyst  NOWA,"AVENGA (Agencja Pracy, nr KRAZ: 8448)",Zdalnie,18480  – 20160  PLN,SQL,/pl/job/business-analyst-avenga-agencja-pracy-nr-kraz-8448-remote-2,18480.0,20160.0,19320.0,True,False
-Business Analyst  NOWA,Michael Page,Zdalnie,28560  – 32760  PLN,SAP Hybris,/pl/job/business-analyst-michael-page-remote,28560.0,32760.0,30660.0,True,False
-Business Analyst  NOWA,Michael Page,Zdalnie,28560  – 32760  PLN,User stories,/pl/job/business-analyst-michael-page-remote,28560.0,32760.0,30660.0,True,False
-Business Analyst  NOWA,Michael Page,Zdalnie,28560  – 32760  PLN,QA,/pl/job/business-analyst-michael-page-remote,28560.0,32760.0,30660.0,True,False
-SAP HCM / HXM Business Analyst  NOWA,Michael Page,Zdalnie,28560  – 32760  PLN,SAP,/pl/job/sap-hcm-hxm-business-analyst-michael-page-remote,28560.0,32760.0,30660.0,True,False
-Business - System Analyst  NOWA,Scalo,Zdalnie,18480  – 20160  PLN,UML,/pl/job/business-system-analyst-scalo-remote-12,18480.0,20160.0,19320.0,True,False
-Business - System Analyst  NOWA,Scalo,Zdalnie,18480  – 20160  PLN,BPMN,/pl/job/business-system-analyst-scalo-remote-12,18480.0,20160.0,19320.0,True,False
-Business - System Analyst  NOWA,Scalo,Zdalnie,18480  – 20160  PLN,REST API,/pl/job/business-system-analyst-scalo-remote-12,18480.0,20160.0,19320.0,True,False
 Business Operations Analyst - RDT EPIE,Roche,Warszawa,14175  – 26325  PLN,Stakeholder management,/pl/job/business-operations-analyst-rdt-epie-roche-warszawa,14175.0,26325.0,20250.0,False,False
 Business Operations Analyst - RDT EPIE,Roche,Warszawa,14175  – 26325  PLN,Communication skills,/pl/job/business-operations-analyst-rdt-epie-roche-warszawa,14175.0,26325.0,20250.0,False,False
-Business Analyst (MFA / IAM),Antal,Kraków,,Analytical skills,/pl/job/business-analyst-mfa-iam-antal-krakow,,,,False,False
-Business Analyst (MFA / IAM),Antal,Kraków,,MFA,/pl/job/business-analyst-mfa-iam-antal-krakow,,,,False,False
-Business Analyst,Antal,Kraków,25200  – 28560  PLN,Banking,/pl/job/business-analyst-antal-krakow-17,25200.0,28560.0,26880.0,False,False
-Business Analyst,Antal,Kraków,25200  – 28560  PLN,Financial service,/pl/job/business-analyst-antal-krakow-17,25200.0,28560.0,26880.0,False,False
-Business Analyst,Verita HR,Kraków,24000  – 27000  PLN,Banking,/pl/job/business-analyst-verita-hr-krakow-10,24000.0,27000.0,25500.0,False,False
-Business Analyst,Verita HR,Kraków,24000  – 27000  PLN,Reporting,/pl/job/business-analyst-verita-hr-krakow-10,24000.0,27000.0,25500.0,False,False
-Business Analyst,Antal,Kraków,23520  – 30240  PLN,Jira,/pl/job/business-analyst-antal-krakow-16,23520.0,30240.0,26880.0,False,False
-Business Analyst,Antal,Kraków,23520  – 30240  PLN,Confluence,/pl/job/business-analyst-antal-krakow-16,23520.0,30240.0,26880.0,False,False
-Business Analyst,Antal,Kraków,23520  – 30240  PLN,SQL,/pl/job/business-analyst-antal-krakow-16,23520.0,30240.0,26880.0,False,False
-Business Analyst,Antal,Warszawa,,BA,/pl/job/business-analyst-antal-warszawa-3,,,,False,False
-Business Analyst,Antal,Warszawa,,Agile,/pl/job/business-analyst-antal-warszawa-3,,,,False,False
-Business Analyst,Link Group,Zdalnie,14000  – 17000  PLN,BPMN,/pl/job/business-analyst-link-group-remote-15,14000.0,17000.0,15500.0,True,False
-Business Analyst,Link Group,Zdalnie,14000  – 17000  PLN,UML,/pl/job/business-analyst-link-group-remote-15,14000.0,17000.0,15500.0,True,False
-Business Expert/Technical Business Analyst (m/f/d) - Payment Transactions (SWIFT),CommerzBank,Łódź,,Inne IT,/pl/job/business-expert-technical-business-analyst-m-f-d-payment-transactions-swift-commerzbank-lodz,,,,False,True
-Business Expert/Technical Business Analyst (m/f/d) - Payment Transactions (SWIFT),CommerzBank,Łódź,,Swift,/pl/job/business-expert-technical-business-analyst-m-f-d-payment-transactions-swift-commerzbank-lodz,,,,False,True
-Business Expert/Technical Business Analyst (m/f/d) - Payment Transactions (SWIFT),CommerzBank,Łódź,,niemiecki,/pl/job/business-expert-technical-business-analyst-m-f-d-payment-transactions-swift-commerzbank-lodz,,,,False,True
-Senior Business Analyst (AI/ML)-B2B,GFT Poland,Kraków,20496  – 26880  PLN,AI,/pl/job/senior-business-analyst-ai-ml-b2b-gft-poland-krakow,20496.0,26880.0,23688.0,False,False
-Senior Business Analyst (AI/ML),GFT Poland,Kraków,13800  – 21200  PLN,AI,/pl/job/senior-business-analyst-ai-ml-gft-poland-krakow,13800.0,21200.0,17500.0,False,False
-Business Analyst  NOWA,Square One Resources,Zdalnie,15120  – 20160  PLN,Workday,/pl/job/business-analyst-square-one-resources-remote,15120.0,20160.0,17640.0,True,False
-Business Analyst  NOWA,Square One Resources,Zdalnie,15120  – 20160  PLN,SAP SuccessFactors,/pl/job/business-analyst-square-one-resources-remote,15120.0,20160.0,17640.0,True,False
-Business Analyst  NOWA,Square One Resources,Zdalnie,15120  – 20160  PLN,Oracle HCM,/pl/job/business-analyst-square-one-resources-remote,15120.0,20160.0,17640.0,True,False
-Business Analyst  NOWA,"AVENGA (Agencja Pracy, nr KRAZ: 8448)",Zdalnie,18480  – 20160  PLN,BPMN,/pl/job/business-analyst-avenga-agencja-pracy-nr-kraz-8448-remote-2,18480.0,20160.0,19320.0,True,False
-Business Analyst  NOWA,"AVENGA (Agencja Pracy, nr KRAZ: 8448)",Zdalnie,18480  – 20160  PLN,UML,/pl/job/business-analyst-avenga-agencja-pracy-nr-kraz-8448-remote-2,18480.0,20160.0,19320.0,True,False
-Business Analyst  NOWA,"AVENGA (Agencja Pracy, nr KRAZ: 8448)",Zdalnie,18480  – 20160  PLN,SQL,/pl/job/business-analyst-avenga-agencja-pracy-nr-kraz-8448-remote-2,18480.0,20160.0,19320.0,True,False
-Business Analyst  NOWA,Michael Page,Zdalnie,28560  – 32760  PLN,SAP Hybris,/pl/job/business-analyst-michael-page-remote,28560.0,32760.0,30660.0,True,False
-Business Analyst  NOWA,Michael Page,Zdalnie,28560  – 32760  PLN,User stories,/pl/job/business-analyst-michael-page-remote,28560.0,32760.0,30660.0,True,False
-Business Analyst  NOWA,Michael Page,Zdalnie,28560  – 32760  PLN,QA,/pl/job/business-analyst-michael-page-remote,28560.0,32760.0,30660.0,True,False
-SAP HCM / HXM Business Analyst  NOWA,Michael Page,Zdalnie,28560  – 32760  PLN,SAP,/pl/job/sap-hcm-hxm-business-analyst-michael-page-remote,28560.0,32760.0,30660.0,True,False
-Business - System Analyst  NOWA,Scalo,Zdalnie,18480  – 20160  PLN,UML,/pl/job/business-system-analyst-scalo-remote-12,18480.0,20160.0,19320.0,True,False
-Business - System Analyst  NOWA,Scalo,Zdalnie,18480  – 20160  PLN,BPMN,/pl/job/business-system-analyst-scalo-remote-12,18480.0,20160.0,19320.0,True,False
-Business - System Analyst  NOWA,Scalo,Zdalnie,18480  – 20160  PLN,REST API,/pl/job/business-system-analyst-scalo-remote-12,18480.0,20160.0,19320.0,True,False
 Business Operations Analyst - RDT EPIE,Roche,Warszawa,14175  – 26325  PLN,Stakeholder management,/pl/job/business-operations-analyst-rdt-epie-roche-warszawa,14175.0,26325.0,20250.0,False,False
 Business Operations Analyst - RDT EPIE,Roche,Warszawa,14175  – 26325  PLN,Communication skills,/pl/job/business-operations-analyst-rdt-epie-roche-warszawa,14175.0,26325.0,20250.0,False,False
-Business Analyst (MFA / IAM),Antal,Kraków,,Analytical skills,/pl/job/business-analyst-mfa-iam-antal-krakow,,,,False,False
-Business Analyst (MFA / IAM),Antal,Kraków,,MFA,/pl/job/business-analyst-mfa-iam-antal-krakow,,,,False,False
-Business Analyst,Antal,Kraków,25200  – 28560  PLN,Banking,/pl/job/business-analyst-antal-krakow-17,25200.0,28560.0,26880.0,False,False
-Business Analyst,Antal,Kraków,25200  – 28560  PLN,Financial service,/pl/job/business-analyst-antal-krakow-17,25200.0,28560.0,26880.0,False,False
-Business Analyst,Verita HR,Kraków,24000  – 27000  PLN,Banking,/pl/job/business-analyst-verita-hr-krakow-10,24000.0,27000.0,25500.0,False,False
-Business Analyst,Verita HR,Kraków,24000  – 27000  PLN,Reporting,/pl/job/business-analyst-verita-hr-krakow-10,24000.0,27000.0,25500.0,False,False
-Business Analyst,Antal,Kraków,23520  – 30240  PLN,Jira,/pl/job/business-analyst-antal-krakow-16,23520.0,30240.0,26880.0,False,False
-Business Analyst,Antal,Kraków,23520  – 30240  PLN,Confluence,/pl/job/business-analyst-antal-krakow-16,23520.0,30240.0,26880.0,False,False
-Business Analyst,Antal,Kraków,23520  – 30240  PLN,SQL,/pl/job/business-analyst-antal-krakow-16,23520.0,30240.0,26880.0,False,False
-Business Analyst,Antal,Warszawa,,BA,/pl/job/business-analyst-antal-warszawa-3,,,,False,False
-Business Analyst,Antal,Warszawa,,Agile,/pl/job/business-analyst-antal-warszawa-3,,,,False,False
-Business Analyst,Link Group,Zdalnie,14000  – 17000  PLN,BPMN,/pl/job/business-analyst-link-group-remote-15,14000.0,17000.0,15500.0,True,False
-Business Analyst,Link Group,Zdalnie,14000  – 17000  PLN,UML,/pl/job/business-analyst-link-group-remote-15,14000.0,17000.0,15500.0,True,False
-Business Expert/Technical Business Analyst (m/f/d) - Payment Transactions (SWIFT),CommerzBank,Łódź,,Inne IT,/pl/job/business-expert-technical-business-analyst-m-f-d-payment-transactions-swift-commerzbank-lodz,,,,False,True
-Business Expert/Technical Business Analyst (m/f/d) - Payment Transactions (SWIFT),CommerzBank,Łódź,,Swift,/pl/job/business-expert-technical-business-analyst-m-f-d-payment-transactions-swift-commerzbank-lodz,,,,False,True
-Business Expert/Technical Business Analyst (m/f/d) - Payment Transactions (SWIFT),CommerzBank,Łódź,,niemiecki,/pl/job/business-expert-technical-business-analyst-m-f-d-payment-transactions-swift-commerzbank-lodz,,,,False,True
-Senior Business Analyst (AI/ML)-B2B,GFT Poland,Kraków,20496  – 26880  PLN,AI,/pl/job/senior-business-analyst-ai-ml-b2b-gft-poland-krakow,20496.0,26880.0,23688.0,False,False
-Senior Business Analyst (AI/ML),GFT Poland,Kraków,13800  – 21200  PLN,AI,/pl/job/senior-business-analyst-ai-ml-gft-poland-krakow,13800.0,21200.0,17500.0,False,False
-MFA Business Analyst,Mindbox Sp. z o.o.,Kraków,21000  – 25200  PLN,MFA,/pl/job/mfa-business-analyst-mindbox-krakow,21000.0,25200.0,23100.0,False,False
-MFA Business Analyst,Mindbox Sp. z o.o.,Kraków,21000  – 25200  PLN,Security,/pl/job/mfa-business-analyst-mindbox-krakow,21000.0,25200.0,23100.0,False,False
-Quantum Business Analyst,Antal,Kraków,,Analiza biznesowa,/pl/job/quantum-business-analyst-antal-krakow,,,,False,False
-Quantum Business Analyst,Antal,Kraków,,User stories,/pl/job/quantum-business-analyst-antal-krakow,,,,False,False
 Business and Systems Analyst,Scalo,Warszawa,22680  – 24360  PLN,BPMN,/pl/job/business-and-systems-analyst-scalo-warszawa,22680.0,24360.0,23520.0,False,False
 Business and Systems Analyst,Scalo,Warszawa,22680  – 24360  PLN,UML,/pl/job/business-and-systems-analyst-scalo-warszawa,22680.0,24360.0,23520.0,False,False
 Business and Systems Analyst,Scalo,Warszawa,22680  – 24360  PLN,UI,/pl/job/business-and-systems-analyst-scalo-warszawa,22680.0,24360.0,23520.0,False,False
-Business Analyst - Legal Operations (f/m/x),Sii Polska,Zdalnie,23100  – 25200  PLN,User stories,/pl/job/business-analyst-legal-operations-f-m-x-sii-polska-remote,23100.0,25200.0,24150.0,True,False
-Business Analyst - Legal Operations (f/m/x),Sii Polska,Zdalnie,23100  – 25200  PLN,SaaS Solutions,/pl/job/business-analyst-legal-operations-f-m-x-sii-polska-remote,23100.0,25200.0,24150.0,True,False
-Business Analyst - Dynamics 365,Antal,Kraków,33600  – 40320  PLN,D365,/pl/job/business-analyst-dynamics-365-antal-krakow,33600.0,40320.0,36960.0,False,False
-Business Analyst - Dynamics 365,Antal,Kraków,33600  – 40320  PLN,Power Platform,/pl/job/business-analyst-dynamics-365-antal-krakow,33600.0,40320.0,36960.0,False,False
-Senior Business Analyst,GFT Poland,Kraków,13900  – 21270  PLN,Power BI,/pl/job/senior-business-analyst-gft-poland-krakow,13900.0,21270.0,17585.0,False,False
-Senior Business Analyst,GFT Poland,Kraków,13900  – 21270  PLN,Tableau,/pl/job/senior-business-analyst-gft-poland-krakow,13900.0,21270.0,17585.0,False,False
-Senior Business Analyst Consultant,GFT Poland,Kraków,20160  – 26880  PLN,Power BI,/pl/job/senior-business-analyst-consultant-gft-poland-krakow,20160.0,26880.0,23520.0,False,False
-Senior Business Analyst Consultant,GFT Poland,Kraków,20160  – 26880  PLN,Tableau,/pl/job/senior-business-analyst-consultant-gft-poland-krakow,20160.0,26880.0,23520.0,False,False
-Business Analyst KYC,Antal,Kraków,21840  – 26880  PLN,Client onboarding,/pl/job/business-analyst-kyc-antal-krakow-1,21840.0,26880.0,24360.0,False,False
-Business Analyst KYC,Antal,Kraków,21840  – 26880  PLN,KYC,/pl/job/business-analyst-kyc-antal-krakow-1,21840.0,26880.0,24360.0,False,False
-Business Analyst KYC,Antal,Kraków,21840  – 26880  PLN,API,/pl/job/business-analyst-kyc-antal-krakow-1,21840.0,26880.0,24360.0,False,False
-Business Analyst (IoT projects),Antal,Zdalnie,16800  – 21840  PLN,System analysis,/pl/job/business-analyst-iot-projects-antal-remote,16800.0,21840.0,19320.0,True,False
-Business Analyst (IoT projects),Antal,Zdalnie,16800  – 21840  PLN,Change management,/pl/job/business-analyst-iot-projects-antal-remote,16800.0,21840.0,19320.0,True,False
-Technical Business Analyst (m/f/d),CommerzBank,Łódź,,BPMN,/pl/job/technical-business-analyst-m-f-d-commerzbank-lodz,,,,False,False
-Technical Business Analyst (m/f/d),CommerzBank,Łódź,,REST API,/pl/job/technical-business-analyst-m-f-d-commerzbank-lodz,,,,False,False
-Technical Business Analyst (m/f/d),CommerzBank,Łódź,,Open API,/pl/job/technical-business-analyst-m-f-d-commerzbank-lodz,,,,False,False
-Junior Business Analyst,Scalo,Warszawa,13440  – 15120  PLN,Excel,/pl/job/junior-business-analyst-scalo-warszawa,13440.0,15120.0,14280.0,False,False
-Junior Business Analyst,Scalo,Warszawa,13440  – 15120  PLN,Jira,/pl/job/junior-business-analyst-scalo-warszawa,13440.0,15120.0,14280.0,False,False
-Junior Business Analyst,Scalo,Warszawa,13440  – 15120  PLN,Confluence,/pl/job/junior-business-analyst-scalo-warszawa,13440.0,15120.0,14280.0,False,False
-Supply Chain Business Analyst with German,Antal,Kraków,,Logistyka,/pl/job/supply-chain-business-analyst-with-german-antal-krakow,,,,False,False
-Supply Chain Business Analyst with German,Antal,Kraków,,Supply Chain,/pl/job/supply-chain-business-analyst-with-german-antal-krakow,,,,False,False
-Supply Chain Business Analyst with German,Antal,Kraków,,Customer Collaboration,/pl/job/supply-chain-business-analyst-with-german-antal-krakow,,,,False,False
-IT Business Analyst,Antal,Kraków,23520  – 26880  PLN,Analiza biznesowa,/pl/job/it-business-analyst-antal-krakow-5,23520.0,26880.0,25200.0,False,False
-IT Business Analyst,Antal,Kraków,23520  – 26880  PLN,Bankowość,/pl/job/it-business-analyst-antal-krakow-5,23520.0,26880.0,25200.0,False,False
-IT Business Analyst,Antal,Kraków,23520  – 26880  PLN,Business Intelligence,/pl/job/it-business-analyst-antal-krakow-5,23520.0,26880.0,25200.0,False,False
 Business Applications Analyst (Salesforce),Link Group,Warszawa,15000  – 23000  PLN,Salesforce,/pl/job/business-applications-analyst-salesforce-link-group-warszawa,15000.0,23000.0,19000.0,False,False
 Business Applications Analyst (Salesforce),Link Group,Warszawa,15000  – 23000  PLN,Functional Consultant,/pl/job/business-applications-analyst-salesforce-link-group-warszawa,15000.0,23000.0,19000.0,False,False
-Business Analyst - Omnichannel Experience & Transformation Department​​,T-Mobile Polska,Zdalnie,,Requirements analysis,/pl/job/business-analyst-omnichannel-experience-transformation-department--t-mobile-polska-remote,,,,True,False
-Business Analyst - Omnichannel Experience & Transformation Department​​,T-Mobile Polska,Zdalnie,,Communication skills,/pl/job/business-analyst-omnichannel-experience-transformation-department--t-mobile-polska-remote,,,,True,False
-Business Analyst - Omnichannel Experience & Transformation Department​​,T-Mobile Polska,Zdalnie,,UML,/pl/job/business-analyst-omnichannel-experience-transformation-department--t-mobile-polska-remote,,,,True,False
-Business/System Analyst,Safety Heads,Zdalnie,,REST API,/pl/job/business-system-analyst-safety-heads-remote,,,,True,False
-Business/System Analyst,Safety Heads,Zdalnie,,XML,/pl/job/business-system-analyst-safety-heads-remote,,,,True,False
-Business/System Analyst,Safety Heads,Zdalnie,,JSON,/pl/job/business-system-analyst-safety-heads-remote,,,,True,False
-Business Analyst (ML & AWS SageMaker),DCG,Gdynia,20160  – 22680  PLN,AWS SageMaker,/pl/job/business-analyst-ml-aws-sagemaker-dcg-gdynia,20160.0,22680.0,21420.0,False,False
-Business Analyst (ML & AWS SageMaker),DCG,Gdynia,20160  – 22680  PLN,Communication skills,/pl/job/business-analyst-ml-aws-sagemaker-dcg-gdynia,20160.0,22680.0,21420.0,False,False
-MFA Business Analyst,Mindbox Sp. z o.o.,Kraków,21000  – 25200  PLN,MFA,/pl/job/mfa-business-analyst-mindbox-krakow,21000.0,25200.0,23100.0,False,False
-MFA Business Analyst,Mindbox Sp. z o.o.,Kraków,21000  – 25200  PLN,Security,/pl/job/mfa-business-analyst-mindbox-krakow,21000.0,25200.0,23100.0,False,False
-Quantum Business Analyst,Antal,Kraków,,Analiza biznesowa,/pl/job/quantum-business-analyst-antal-krakow,,,,False,False
-Quantum Business Analyst,Antal,Kraków,,User stories,/pl/job/quantum-business-analyst-antal-krakow,,,,False,False
 Business and Systems Analyst,Scalo,Warszawa,22680  – 24360  PLN,BPMN,/pl/job/business-and-systems-analyst-scalo-warszawa,22680.0,24360.0,23520.0,False,False
 Business and Systems Analyst,Scalo,Warszawa,22680  – 24360  PLN,UML,/pl/job/business-and-systems-analyst-scalo-warszawa,22680.0,24360.0,23520.0,False,False
 Business and Systems Analyst,Scalo,Warszawa,22680  – 24360  PLN,UI,/pl/job/business-and-systems-analyst-scalo-warszawa,22680.0,24360.0,23520.0,False,False
-Business Analyst - Legal Operations (f/m/x),Sii Polska,Zdalnie,23100  – 25200  PLN,User stories,/pl/job/business-analyst-legal-operations-f-m-x-sii-polska-remote,23100.0,25200.0,24150.0,True,False
-Business Analyst - Legal Operations (f/m/x),Sii Polska,Zdalnie,23100  – 25200  PLN,SaaS Solutions,/pl/job/business-analyst-legal-operations-f-m-x-sii-polska-remote,23100.0,25200.0,24150.0,True,False
-Business Analyst - Dynamics 365,Antal,Kraków,33600  – 40320  PLN,D365,/pl/job/business-analyst-dynamics-365-antal-krakow,33600.0,40320.0,36960.0,False,False
-Business Analyst - Dynamics 365,Antal,Kraków,33600  – 40320  PLN,Power Platform,/pl/job/business-analyst-dynamics-365-antal-krakow,33600.0,40320.0,36960.0,False,False
-Senior Business Analyst,GFT Poland,Kraków,13900  – 21270  PLN,Power BI,/pl/job/senior-business-analyst-gft-poland-krakow,13900.0,21270.0,17585.0,False,False
-Senior Business Analyst,GFT Poland,Kraków,13900  – 21270  PLN,Tableau,/pl/job/senior-business-analyst-gft-poland-krakow,13900.0,21270.0,17585.0,False,False
-Senior Business Analyst Consultant,GFT Poland,Kraków,20160  – 26880  PLN,Power BI,/pl/job/senior-business-analyst-consultant-gft-poland-krakow,20160.0,26880.0,23520.0,False,False
-Senior Business Analyst Consultant,GFT Poland,Kraków,20160  – 26880  PLN,Tableau,/pl/job/senior-business-analyst-consultant-gft-poland-krakow,20160.0,26880.0,23520.0,False,False
-Business Analyst KYC,Antal,Kraków,21840  – 26880  PLN,Client onboarding,/pl/job/business-analyst-kyc-antal-krakow-1,21840.0,26880.0,24360.0,False,False
-Business Analyst KYC,Antal,Kraków,21840  – 26880  PLN,KYC,/pl/job/business-analyst-kyc-antal-krakow-1,21840.0,26880.0,24360.0,False,False
-Business Analyst KYC,Antal,Kraków,21840  – 26880  PLN,API,/pl/job/business-analyst-kyc-antal-krakow-1,21840.0,26880.0,24360.0,False,False
-Business Analyst (IoT projects),Antal,Zdalnie,16800  – 21840  PLN,System analysis,/pl/job/business-analyst-iot-projects-antal-remote,16800.0,21840.0,19320.0,True,False
-Business Analyst (IoT projects),Antal,Zdalnie,16800  – 21840  PLN,Change management,/pl/job/business-analyst-iot-projects-antal-remote,16800.0,21840.0,19320.0,True,False
-Technical Business Analyst (m/f/d),CommerzBank,Łódź,,BPMN,/pl/job/technical-business-analyst-m-f-d-commerzbank-lodz,,,,False,False
-Technical Business Analyst (m/f/d),CommerzBank,Łódź,,REST API,/pl/job/technical-business-analyst-m-f-d-commerzbank-lodz,,,,False,False
-Technical Business Analyst (m/f/d),CommerzBank,Łódź,,Open API,/pl/job/technical-business-analyst-m-f-d-commerzbank-lodz,,,,False,False
-Junior Business Analyst,Scalo,Warszawa,13440  – 15120  PLN,Excel,/pl/job/junior-business-analyst-scalo-warszawa,13440.0,15120.0,14280.0,False,False
-Junior Business Analyst,Scalo,Warszawa,13440  – 15120  PLN,Jira,/pl/job/junior-business-analyst-scalo-warszawa,13440.0,15120.0,14280.0,False,False
-Junior Business Analyst,Scalo,Warszawa,13440  – 15120  PLN,Confluence,/pl/job/junior-business-analyst-scalo-warszawa,13440.0,15120.0,14280.0,False,False
-Supply Chain Business Analyst with German,Antal,Kraków,,Logistyka,/pl/job/supply-chain-business-analyst-with-german-antal-krakow,,,,False,False
-Supply Chain Business Analyst with German,Antal,Kraków,,Supply Chain,/pl/job/supply-chain-business-analyst-with-german-antal-krakow,,,,False,False
-Supply Chain Business Analyst with German,Antal,Kraków,,Customer Collaboration,/pl/job/supply-chain-business-analyst-with-german-antal-krakow,,,,False,False
-IT Business Analyst,Antal,Kraków,23520  – 26880  PLN,Analiza biznesowa,/pl/job/it-business-analyst-antal-krakow-5,23520.0,26880.0,25200.0,False,False
-IT Business Analyst,Antal,Kraków,23520  – 26880  PLN,Bankowość,/pl/job/it-business-analyst-antal-krakow-5,23520.0,26880.0,25200.0,False,False
-IT Business Analyst,Antal,Kraków,23520  – 26880  PLN,Business Intelligence,/pl/job/it-business-analyst-antal-krakow-5,23520.0,26880.0,25200.0,False,False
 Business Applications Analyst (Salesforce),Link Group,Warszawa,15000  – 23000  PLN,Salesforce,/pl/job/business-applications-analyst-salesforce-link-group-warszawa,15000.0,23000.0,19000.0,False,False
 Business Applications Analyst (Salesforce),Link Group,Warszawa,15000  – 23000  PLN,Functional Consultant,/pl/job/business-applications-analyst-salesforce-link-group-warszawa,15000.0,23000.0,19000.0,False,False
-Business Analyst - Omnichannel Experience & Transformation Department​​,T-Mobile Polska,Zdalnie,,Requirements analysis,/pl/job/business-analyst-omnichannel-experience-transformation-department--t-mobile-polska-remote,,,,True,False
-Business Analyst - Omnichannel Experience & Transformation Department​​,T-Mobile Polska,Zdalnie,,Communication skills,/pl/job/business-analyst-omnichannel-experience-transformation-department--t-mobile-polska-remote,,,,True,False
-Business Analyst - Omnichannel Experience & Transformation Department​​,T-Mobile Polska,Zdalnie,,UML,/pl/job/business-analyst-omnichannel-experience-transformation-department--t-mobile-polska-remote,,,,True,False
-Business/System Analyst,Safety Heads,Zdalnie,,REST API,/pl/job/business-system-analyst-safety-heads-remote,,,,True,False
-Business/System Analyst,Safety Heads,Zdalnie,,XML,/pl/job/business-system-analyst-safety-heads-remote,,,,True,False
-Business/System Analyst,Safety Heads,Zdalnie,,JSON,/pl/job/business-system-analyst-safety-heads-remote,,,,True,False
-Business Analyst (ML & AWS SageMaker),DCG,Gdynia,20160  – 22680  PLN,AWS SageMaker,/pl/job/business-analyst-ml-aws-sagemaker-dcg-gdynia,20160.0,22680.0,21420.0,False,False
-Business Analyst (ML & AWS SageMaker),DCG,Gdynia,20160  – 22680  PLN,Communication skills,/pl/job/business-analyst-ml-aws-sagemaker-dcg-gdynia,20160.0,22680.0,21420.0,False,False
-Senior Business Analyst,ALGOTEQUE Innovation Hub,Warszawa,18900  – 23100  PLN,Jira,/pl/job/senior-business-analyst-algoteque-innovation-hub-warszawa,18900.0,23100.0,21000.0,False,False
-Senior Business Analyst,ALGOTEQUE Innovation Hub,Warszawa,18900  – 23100  PLN,Confluence,/pl/job/senior-business-analyst-algoteque-innovation-hub-warszawa,18900.0,23100.0,21000.0,False,False
-Business-  System Analyst,Scalo,Zdalnie,21840  – 23520  PLN,User stories,/pl/job/business-system-analyst-scalo-remote-11,21840.0,23520.0,22680.0,True,False
-Business-  System Analyst,Scalo,Zdalnie,21840  – 23520  PLN,UML,/pl/job/business-system-analyst-scalo-remote-11,21840.0,23520.0,22680.0,True,False
-Business-  System Analyst,Scalo,Zdalnie,21840  – 23520  PLN,BPMN,/pl/job/business-system-analyst-scalo-remote-11,21840.0,23520.0,22680.0,True,False
-Senior System Designer \ IT System-Business Analyst,Antal,Warszawa,23520  – 26880  PLN,UML,/pl/job/senior-system-designer-it-system-business-analyst-antal-warszawa,23520.0,26880.0,25200.0,False,False
-Senior System Designer \ IT System-Business Analyst,Antal,Warszawa,23520  – 26880  PLN,BPMN,/pl/job/senior-system-designer-it-system-business-analyst-antal-warszawa,23520.0,26880.0,25200.0,False,False
-Senior System Designer \ IT System-Business Analyst,Antal,Warszawa,23520  – 26880  PLN,Java,/pl/job/senior-system-designer-it-system-business-analyst-antal-warszawa,23520.0,26880.0,25200.0,False,False
-Senior Business Analyst (z językiem niemieckim),Antal,Zdalnie,,Agile,/pl/job/senior-business-analyst-z-jezykiem-niemieckim-antal-remote,,,,True,False
-Senior Business Analyst (z językiem niemieckim),Antal,Zdalnie,,Budowanie relacji,/pl/job/senior-business-analyst-z-jezykiem-niemieckim-antal-remote,,,,True,False
-IT Business Analyst (K/M),ASTEK Polska,Warszawa,18480  – 21000  PLN,MS Office,/pl/job/it-business-analyst-k-m-astek-polska-warszawa,18480.0,21000.0,19740.0,False,False
-IT Business Analyst (K/M),ASTEK Polska,Warszawa,18480  – 21000  PLN,AML,/pl/job/it-business-analyst-k-m-astek-polska-warszawa,18480.0,21000.0,19740.0,False,False
-IT Business Analyst (K/M),ASTEK Polska,Warszawa,18480  – 21000  PLN,STIR,/pl/job/it-business-analyst-k-m-astek-polska-warszawa,18480.0,21000.0,19740.0,False,False
-IT Business Analyst (K/M) K/M,ASTEK Polska,Warszawa,13000  – 14600  PLN,MS Office,/pl/job/it-business-analyst-k-m-k-m-astek-polska-warszawa-1,13000.0,14600.0,13800.0,False,False
-IT Business Analyst (K/M) K/M,ASTEK Polska,Warszawa,13000  – 14600  PLN,AML,/pl/job/it-business-analyst-k-m-k-m-astek-polska-warszawa-1,13000.0,14600.0,13800.0,False,False
-IT Business Analyst (K/M) K/M,ASTEK Polska,Warszawa,13000  – 14600  PLN,STIR,/pl/job/it-business-analyst-k-m-k-m-astek-polska-warszawa-1,13000.0,14600.0,13800.0,False,False
-Business Analyst,Arche Solutions,Katowice,18480  – 21840  PLN,SQL,/pl/job/business-analyst-arche-solutions-katowice,18480.0,21840.0,20160.0,False,True
-Business Analyst,Arche Solutions,Katowice,18480  – 21840  PLN,API,/pl/job/business-analyst-arche-solutions-katowice,18480.0,21840.0,20160.0,False,True
-Technical Business Analyst,EBIS,Zdalnie,,Technical Consultant,/pl/job/technical-business-analyst-ebis-remote,,,,True,False
-Technical Business Analyst,EBIS,Zdalnie,,BI Consultant,/pl/job/technical-business-analyst-ebis-remote,,,,True,False
-Business Analyst,Mindbox Sp. z o.o.,Kraków,21000  – 24150  PLN,Analytical skills,/pl/job/business-analyst-mindbox-krakow-25,21000.0,24150.0,22575.0,False,False
-Business Analyst,Mindbox Sp. z o.o.,Kraków,21000  – 24150  PLN,Cloud,/pl/job/business-analyst-mindbox-krakow-25,21000.0,24150.0,22575.0,False,False
-Business Analyst,Mindbox Sp. z o.o.,Kraków,21000  – 24150  PLN,DevOps,/pl/job/business-analyst-mindbox-krakow-25,21000.0,24150.0,22575.0,False,False
-Business - System Analyst,Scalo,Wrocław,20496  – 22176  PLN,BPMN,/pl/job/business-system-analyst-scalo-wroclaw-4,20496.0,22176.0,21336.0,False,False
-Business - System Analyst,Scalo,Wrocław,20496  – 22176  PLN,UML,/pl/job/business-system-analyst-scalo-wroclaw-4,20496.0,22176.0,21336.0,False,False
-Business - System Analyst,Scalo,Wrocław,20496  – 22176  PLN,Jira,/pl/job/business-system-analyst-scalo-wroclaw-4,20496.0,22176.0,21336.0,False,False
-System - Business Analyst,Scalo,Warszawa,21840  – 23520  PLN,BPMN,/pl/job/system-business-analyst-scalo-warszawa-4,21840.0,23520.0,22680.0,False,False
-System - Business Analyst,Scalo,Warszawa,21840  – 23520  PLN,UML,/pl/job/system-business-analyst-scalo-warszawa-4,21840.0,23520.0,22680.0,False,False
-System - Business Analyst,Scalo,Warszawa,21840  – 23520  PLN,Enterprise Architect,/pl/job/system-business-analyst-scalo-warszawa-4,21840.0,23520.0,22680.0,False,False
-System - Business Analyst,Scalo,Zdalnie,22680  – 24360  PLN,User story,/pl/job/system-business-analyst-scalo-remote-6,22680.0,24360.0,23520.0,True,False
-System - Business Analyst,Scalo,Zdalnie,22680  – 24360  PLN,UML,/pl/job/system-business-analyst-scalo-remote-6,22680.0,24360.0,23520.0,True,False
-System - Business Analyst,Scalo,Zdalnie,22680  – 24360  PLN,BPMN,/pl/job/system-business-analyst-scalo-remote-6,22680.0,24360.0,23520.0,True,False
-Business Analyst,Antal,Kraków,23520  – 26880  PLN,SEPA,/pl/job/business-analyst-antal-krakow-15,23520.0,26880.0,25200.0,False,False
-Business Analyst,Antal,Kraków,23520  – 26880  PLN,ISO,/pl/job/business-analyst-antal-krakow-15,23520.0,26880.0,25200.0,False,False
-Business Analyst - Customer Value and Digital Engagement Department,T-Mobile Polska,Warszawa,,UML,/pl/job/business-analyst-customer-value-and-digital-engagement-department-t-mobile-polska-warszawa,,,,False,True
-IT Business Analyst with German Intern - Loans & Restructuring Solutions - TalentBank 2026,CommerzBank,Łódź,,Excel,/pl/job/it-business-analyst-with-german-intern-loans-restructuring-solutions-talentbank-2026-commerzbank-lodz,,,,False,False
-IT Business Analyst with German Intern - Loans & Restructuring Solutions - TalentBank 2026,CommerzBank,Łódź,,niemiecki,/pl/job/it-business-analyst-with-german-intern-loans-restructuring-solutions-talentbank-2026-commerzbank-lodz,,,,False,False
-Business Analyst Intern - Securities Processes- TalentBank 2026,CommerzBank,Łódź,,Figma,/pl/job/business-analyst-intern-securities-processes-talentbank-2026-commerzbank-lodz,,,,False,False
-Business Analyst Intern - Securities Processes- TalentBank 2026,CommerzBank,Łódź,,API,/pl/job/business-analyst-intern-securities-processes-talentbank-2026-commerzbank-lodz,,,,False,False
-Senior IT Business Analyst,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,Katowice,17000  – 21000  PLN,ISO,/pl/job/senior-it-business-analyst-ing-bank-slaski-spolka-akcyjna-katowice,17000.0,21000.0,19000.0,False,False
-Senior IT Business Analyst,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,Katowice,17000  – 21000  PLN,Swift,/pl/job/senior-it-business-analyst-ing-bank-slaski-spolka-akcyjna-katowice,17000.0,21000.0,19000.0,False,False
-Senior IT Business Analyst,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,Katowice,17000  – 21000  PLN,Wykształcenie techniczne,/pl/job/senior-it-business-analyst-ing-bank-slaski-spolka-akcyjna-katowice,17000.0,21000.0,19000.0,False,False
-Senior Business Analyst (K/M),Finture Sp. z o.o,Zdalnie,,Retail,/pl/job/senior-business-analyst-k-m-finture-remote,,,,True,False
-Senior Business Analyst (K/M),Finture Sp. z o.o,Zdalnie,,Sales,/pl/job/senior-business-analyst-k-m-finture-remote,,,,True,False
-Senior Business Analyst,ALGOTEQUE Innovation Hub,Warszawa,18900  – 23100  PLN,Jira,/pl/job/senior-business-analyst-algoteque-innovation-hub-warszawa,18900.0,23100.0,21000.0,False,False
-Senior Business Analyst,ALGOTEQUE Innovation Hub,Warszawa,18900  – 23100  PLN,Confluence,/pl/job/senior-business-analyst-algoteque-innovation-hub-warszawa,18900.0,23100.0,21000.0,False,False
-Business-  System Analyst,Scalo,Zdalnie,21840  – 23520  PLN,User stories,/pl/job/business-system-analyst-scalo-remote-11,21840.0,23520.0,22680.0,True,False
-Business-  System Analyst,Scalo,Zdalnie,21840  – 23520  PLN,UML,/pl/job/business-system-analyst-scalo-remote-11,21840.0,23520.0,22680.0,True,False
-Business-  System Analyst,Scalo,Zdalnie,21840  – 23520  PLN,BPMN,/pl/job/business-system-analyst-scalo-remote-11,21840.0,23520.0,22680.0,True,False
-Senior System Designer \ IT System-Business Analyst,Antal,Warszawa,23520  – 26880  PLN,UML,/pl/job/senior-system-designer-it-system-business-analyst-antal-warszawa,23520.0,26880.0,25200.0,False,False
-Senior System Designer \ IT System-Business Analyst,Antal,Warszawa,23520  – 26880  PLN,BPMN,/pl/job/senior-system-designer-it-system-business-analyst-antal-warszawa,23520.0,26880.0,25200.0,False,False
-Senior System Designer \ IT System-Business Analyst,Antal,Warszawa,23520  – 26880  PLN,Java,/pl/job/senior-system-designer-it-system-business-analyst-antal-warszawa,23520.0,26880.0,25200.0,False,False
-Senior Business Analyst (z językiem niemieckim),Antal,Zdalnie,,Agile,/pl/job/senior-business-analyst-z-jezykiem-niemieckim-antal-remote,,,,True,False
-Senior Business Analyst (z językiem niemieckim),Antal,Zdalnie,,Budowanie relacji,/pl/job/senior-business-analyst-z-jezykiem-niemieckim-antal-remote,,,,True,False
-IT Business Analyst (K/M),ASTEK Polska,Warszawa,18480  – 21000  PLN,MS Office,/pl/job/it-business-analyst-k-m-astek-polska-warszawa,18480.0,21000.0,19740.0,False,False
-IT Business Analyst (K/M),ASTEK Polska,Warszawa,18480  – 21000  PLN,AML,/pl/job/it-business-analyst-k-m-astek-polska-warszawa,18480.0,21000.0,19740.0,False,False
-IT Business Analyst (K/M),ASTEK Polska,Warszawa,18480  – 21000  PLN,STIR,/pl/job/it-business-analyst-k-m-astek-polska-warszawa,18480.0,21000.0,19740.0,False,False
-IT Business Analyst (K/M) K/M,ASTEK Polska,Warszawa,13000  – 14600  PLN,MS Office,/pl/job/it-business-analyst-k-m-k-m-astek-polska-warszawa-1,13000.0,14600.0,13800.0,False,False
-IT Business Analyst (K/M) K/M,ASTEK Polska,Warszawa,13000  – 14600  PLN,AML,/pl/job/it-business-analyst-k-m-k-m-astek-polska-warszawa-1,13000.0,14600.0,13800.0,False,False
-IT Business Analyst (K/M) K/M,ASTEK Polska,Warszawa,13000  – 14600  PLN,STIR,/pl/job/it-business-analyst-k-m-k-m-astek-polska-warszawa-1,13000.0,14600.0,13800.0,False,False
-Business Analyst,Arche Solutions,Katowice,18480  – 21840  PLN,SQL,/pl/job/business-analyst-arche-solutions-katowice,18480.0,21840.0,20160.0,False,True
-Business Analyst,Arche Solutions,Katowice,18480  – 21840  PLN,API,/pl/job/business-analyst-arche-solutions-katowice,18480.0,21840.0,20160.0,False,True
-Technical Business Analyst,EBIS,Zdalnie,,Technical Consultant,/pl/job/technical-business-analyst-ebis-remote,,,,True,False
-Technical Business Analyst,EBIS,Zdalnie,,BI Consultant,/pl/job/technical-business-analyst-ebis-remote,,,,True,False
-Business Analyst,Mindbox Sp. z o.o.,Kraków,21000  – 24150  PLN,Analytical skills,/pl/job/business-analyst-mindbox-krakow-25,21000.0,24150.0,22575.0,False,False
-Business Analyst,Mindbox Sp. z o.o.,Kraków,21000  – 24150  PLN,Cloud,/pl/job/business-analyst-mindbox-krakow-25,21000.0,24150.0,22575.0,False,False
-Business Analyst,Mindbox Sp. z o.o.,Kraków,21000  – 24150  PLN,DevOps,/pl/job/business-analyst-mindbox-krakow-25,21000.0,24150.0,22575.0,False,False
-Business - System Analyst,Scalo,Wrocław,20496  – 22176  PLN,BPMN,/pl/job/business-system-analyst-scalo-wroclaw-4,20496.0,22176.0,21336.0,False,False
-Business - System Analyst,Scalo,Wrocław,20496  – 22176  PLN,UML,/pl/job/business-system-analyst-scalo-wroclaw-4,20496.0,22176.0,21336.0,False,False
-Business - System Analyst,Scalo,Wrocław,20496  – 22176  PLN,Jira,/pl/job/business-system-analyst-scalo-wroclaw-4,20496.0,22176.0,21336.0,False,False
-System - Business Analyst,Scalo,Warszawa,21840  – 23520  PLN,BPMN,/pl/job/system-business-analyst-scalo-warszawa-4,21840.0,23520.0,22680.0,False,False
-System - Business Analyst,Scalo,Warszawa,21840  – 23520  PLN,UML,/pl/job/system-business-analyst-scalo-warszawa-4,21840.0,23520.0,22680.0,False,False
-System - Business Analyst,Scalo,Warszawa,21840  – 23520  PLN,Enterprise Architect,/pl/job/system-business-analyst-scalo-warszawa-4,21840.0,23520.0,22680.0,False,False
-System - Business Analyst,Scalo,Zdalnie,22680  – 24360  PLN,User story,/pl/job/system-business-analyst-scalo-remote-6,22680.0,24360.0,23520.0,True,False
-System - Business Analyst,Scalo,Zdalnie,22680  – 24360  PLN,UML,/pl/job/system-business-analyst-scalo-remote-6,22680.0,24360.0,23520.0,True,False
-System - Business Analyst,Scalo,Zdalnie,22680  – 24360  PLN,BPMN,/pl/job/system-business-analyst-scalo-remote-6,22680.0,24360.0,23520.0,True,False
-Business Analyst,Antal,Kraków,23520  – 26880  PLN,SEPA,/pl/job/business-analyst-antal-krakow-15,23520.0,26880.0,25200.0,False,False
-Business Analyst,Antal,Kraków,23520  – 26880  PLN,ISO,/pl/job/business-analyst-antal-krakow-15,23520.0,26880.0,25200.0,False,False
-Business Analyst - Customer Value and Digital Engagement Department,T-Mobile Polska,Warszawa,,UML,/pl/job/business-analyst-customer-value-and-digital-engagement-department-t-mobile-polska-warszawa,,,,False,True
-IT Business Analyst with German Intern - Loans & Restructuring Solutions - TalentBank 2026,CommerzBank,Łódź,,Excel,/pl/job/it-business-analyst-with-german-intern-loans-restructuring-solutions-talentbank-2026-commerzbank-lodz,,,,False,False
-IT Business Analyst with German Intern - Loans & Restructuring Solutions - TalentBank 2026,CommerzBank,Łódź,,niemiecki,/pl/job/it-business-analyst-with-german-intern-loans-restructuring-solutions-talentbank-2026-commerzbank-lodz,,,,False,False
-Business Analyst Intern - Securities Processes- TalentBank 2026,CommerzBank,Łódź,,Figma,/pl/job/business-analyst-intern-securities-processes-talentbank-2026-commerzbank-lodz,,,,False,False
-Business Analyst Intern - Securities Processes- TalentBank 2026,CommerzBank,Łódź,,API,/pl/job/business-analyst-intern-securities-processes-talentbank-2026-commerzbank-lodz,,,,False,False
-Senior IT Business Analyst,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,Katowice,17000  – 21000  PLN,ISO,/pl/job/senior-it-business-analyst-ing-bank-slaski-spolka-akcyjna-katowice,17000.0,21000.0,19000.0,False,False
-Senior IT Business Analyst,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,Katowice,17000  – 21000  PLN,Swift,/pl/job/senior-it-business-analyst-ing-bank-slaski-spolka-akcyjna-katowice,17000.0,21000.0,19000.0,False,False
-Senior IT Business Analyst,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,Katowice,17000  – 21000  PLN,Wykształcenie techniczne,/pl/job/senior-it-business-analyst-ing-bank-slaski-spolka-akcyjna-katowice,17000.0,21000.0,19000.0,False,False
-Senior Business Analyst (K/M),Finture Sp. z o.o,Zdalnie,,Retail,/pl/job/senior-business-analyst-k-m-finture-remote,,,,True,False
-Senior Business Analyst (K/M),Finture Sp. z o.o,Zdalnie,,Sales,/pl/job/senior-business-analyst-k-m-finture-remote,,,,True,False
-Junior Business Analyst,"AVENGA (Agencja Pracy, nr KRAZ: 8448)",Warszawa,9240  – 10080  PLN,Jira,/pl/job/junior-business-analyst-avenga-agencja-pracy-nr-kraz-8448-warsaw-1,9240.0,10080.0,9660.0,False,False
-Junior Business Analyst,"AVENGA (Agencja Pracy, nr KRAZ: 8448)",Warszawa,9240  – 10080  PLN,Confluence,/pl/job/junior-business-analyst-avenga-agencja-pracy-nr-kraz-8448-warsaw-1,9240.0,10080.0,9660.0,False,False
-Junior Business Analyst,"AVENGA (Agencja Pracy, nr KRAZ: 8448)",Warszawa,9240  – 10080  PLN,Excel,/pl/job/junior-business-analyst-avenga-agencja-pracy-nr-kraz-8448-warsaw-1,9240.0,10080.0,9660.0,False,False
-Business Systems Analyst,Connectis_,Warszawa,18144  – 18480  PLN,Jira,/pl/job/business-systems-analyst-connectis--warszawa,18144.0,18480.0,18312.0,False,False
-Business Systems Analyst,Connectis_,Warszawa,18144  – 18480  PLN,Confluence,/pl/job/business-systems-analyst-connectis--warszawa,18144.0,18480.0,18312.0,False,False
-Business Systems Analyst,Connectis_,Warszawa,18144  – 18480  PLN,UML,/pl/job/business-systems-analyst-connectis--warszawa,18144.0,18480.0,18312.0,False,False
-Business Analyst,Link Group,Zdalnie,18480  – 21840  PLN,BPMN,/pl/job/business-analyst-link-group-remote-16,18480.0,21840.0,20160.0,True,False
-Business Analyst,Link Group,Zdalnie,18480  – 21840  PLN,COTS,/pl/job/business-analyst-link-group-remote-16,18480.0,21840.0,20160.0,True,False
-Senior Business Analyst,Mindbox Sp. z o.o.,Kraków,22050  – 25200  PLN,Data analysis,/pl/job/senior-business-analyst-mindbox-krakow-8,22050.0,25200.0,23625.0,False,False
-Senior Business Analyst,Mindbox Sp. z o.o.,Kraków,22050  – 25200  PLN,SQL,/pl/job/senior-business-analyst-mindbox-krakow-8,22050.0,25200.0,23625.0,False,False
-Business Analyst,Mindbox Sp. z o.o.,Kraków,21000  – 24150  PLN,DevOps,/pl/job/business-analyst-mindbox-krakow-24,21000.0,24150.0,22575.0,False,False
-Business Analyst,Mindbox Sp. z o.o.,Kraków,21000  – 24150  PLN,Stakeholder management,/pl/job/business-analyst-mindbox-krakow-24,21000.0,24150.0,22575.0,False,False
-Business Systems Analyst III (Salesforce),Box Inc.,Warszawa,19000  PLN,Support,/pl/job/business-systems-analyst-iii-salesforce-box-warsaw,19000.0,,,False,False
-Business Systems Analyst III (Salesforce),Box Inc.,Warszawa,19000  PLN,Salesforce,/pl/job/business-systems-analyst-iii-salesforce-box-warsaw,19000.0,,,False,False
-Business Systems Analyst III (Salesforce),Box Inc.,Warszawa,19000  PLN,QA,/pl/job/business-systems-analyst-iii-salesforce-box-warsaw,19000.0,,,False,False
-Business Systems Analyst III (Salesforce),Box Inc.,Warszawa,19000  PLN,API,/pl/job/business-systems-analyst-iii-salesforce-box-warsaw,19000.0,,,False,False
-IT Business Analyst [M/F],Arche Solutions,Zdalnie,15120  – 18480  PLN,Sparx enterprise architect,/pl/job/it-business-analyst-m-f-arche-solutions-remote,15120.0,18480.0,16800.0,True,False
-Business Analyst,Scalo,Warszawa,18480  – 20160  PLN,Jira,/pl/job/business-analyst-scalo-warszawa-29,18480.0,20160.0,19320.0,False,True
-Business Analyst,Scalo,Warszawa,18480  – 20160  PLN,Confluence,/pl/job/business-analyst-scalo-warszawa-29,18480.0,20160.0,19320.0,False,True
-Business Analyst,Scalo,Warszawa,18480  – 20160  PLN,Jira,/pl/job/business-analyst-scalo-warszawa-28,18480.0,20160.0,19320.0,False,False
-Business Analyst,Scalo,Warszawa,18480  – 20160  PLN,Confluence,/pl/job/business-analyst-scalo-warszawa-28,18480.0,20160.0,19320.0,False,False
-Business Analyst,Scalo,Warszawa,18480  – 20160  PLN,CA,/pl/job/business-analyst-scalo-warszawa-28,18480.0,20160.0,19320.0,False,False
-Business-System Analyst,Scalo,Warszawa,18480  – 20160  PLN,Jira,/pl/job/business-system-analyst-scalo-warszawa-6,18480.0,20160.0,19320.0,False,False
-Business-System Analyst,Scalo,Warszawa,18480  – 20160  PLN,Confluence,/pl/job/business-system-analyst-scalo-warszawa-6,18480.0,20160.0,19320.0,False,False
-Business-System Analyst,Scalo,Warszawa,18480  – 20160  PLN,Axure,/pl/job/business-system-analyst-scalo-warszawa-6,18480.0,20160.0,19320.0,False,False
-Senior Business Analyst with SQL,GFT Poland,Łódź,13900  – 21270  PLN,SQL,/pl/job/senior-business-analyst-with-sql-gft-poland-lodz,13900.0,21270.0,17585.0,False,False
-Senior Business Analyst with SQL,GFT Poland,Łódź,13900  – 21270  PLN,PL/SQL,/pl/job/senior-business-analyst-with-sql-gft-poland-lodz,13900.0,21270.0,17585.0,False,False
-Business Analyst,HSBC Technology Poland,Kraków,18000  – 23000  PLN,Counterparty Credit Risk,/pl/job/business-analyst-hsbc-technology-poland-krakow-4,18000.0,23000.0,20500.0,False,False
-Business Analyst,HSBC Technology Poland,Kraków,18000  – 23000  PLN,PFE,/pl/job/business-analyst-hsbc-technology-poland-krakow-4,18000.0,23000.0,20500.0,False,False
-Business Analyst,HSBC Technology Poland,Kraków,18000  – 23000  PLN,CVA,/pl/job/business-analyst-hsbc-technology-poland-krakow-4,18000.0,23000.0,20500.0,False,False
-Senior Business Analyst,Scalo,Warszawa,16800  – 18480  PLN,Jira,/pl/job/senior-business-analyst-scalo-warszawa-5,16800.0,18480.0,17640.0,False,True
-Senior Business Analyst,Scalo,Warszawa,16800  – 18480  PLN,Confluence,/pl/job/senior-business-analyst-scalo-warszawa-5,16800.0,18480.0,17640.0,False,True
-Transformation Business Analyst,Verita HR,Kraków,23000  – 26000  PLN,Transformation initiatives,/pl/job/transformation-business-analyst-verita-hr-krakow,23000.0,26000.0,24500.0,False,False
-Transformation Business Analyst,Verita HR,Kraków,23000  – 26000  PLN,Requirements gathering,/pl/job/transformation-business-analyst-verita-hr-krakow,23000.0,26000.0,24500.0,False,False
-Business & Systems Analyst,PragmaGO.tech Sp. z o.o.,Kraków,10000  – 14500  PLN,Jira,/pl/job/business-systems-analyst-pragmago-tech-krakow,10000.0,14500.0,12250.0,False,False
-Business & Systems Analyst,PragmaGO.tech Sp. z o.o.,Kraków,10000  – 14500  PLN,Confluence,/pl/job/business-systems-analyst-pragmago-tech-krakow,10000.0,14500.0,12250.0,False,False
-Business & Systems Analyst,PragmaGO.tech Sp. z o.o.,Kraków,10000  – 14500  PLN,Miro,/pl/job/business-systems-analyst-pragmago-tech-krakow,10000.0,14500.0,12250.0,False,False
-Business Analyst,Scalo,Zdalnie,21840  – 25200  PLN,BPMN,/pl/job/business-analyst-scalo-remote-7,21840.0,25200.0,23520.0,True,False
-Business Analyst,Scalo,Zdalnie,21840  – 25200  PLN,UML,/pl/job/business-analyst-scalo-remote-7,21840.0,25200.0,23520.0,True,False
-Business Analyst with second language (German/Spanish/French/Italian/Polish),Innowise,Warszawa,,BPMN,/pl/job/business-analyst-with-second-language-german-spanish-french-italian-polish-innowise-warsaw,,,,False,False
-Business Analyst with second language (German/Spanish/French/Italian/Polish),Innowise,Warszawa,,User stories,/pl/job/business-analyst-with-second-language-german-spanish-french-italian-polish-innowise-warsaw,,,,False,False
-Business Analyst with second language (German/Spanish/French/Italian/Polish),Innowise,Warszawa,,WBS,/pl/job/business-analyst-with-second-language-german-spanish-french-italian-polish-innowise-warsaw,,,,False,False
-Business - System Analyst,Scalo,Warszawa,22680  – 24360  PLN,BPMN,/pl/job/business-system-analyst-scalo-warszawa-5,22680.0,24360.0,23520.0,False,False
-Business - System Analyst,Scalo,Warszawa,22680  – 24360  PLN,UML,/pl/job/business-system-analyst-scalo-warszawa-5,22680.0,24360.0,23520.0,False,False
-Business - System Analyst,Scalo,Warszawa,22680  – 24360  PLN,UX,/pl/job/business-system-analyst-scalo-warszawa-5,22680.0,24360.0,23520.0,False,False
 System Analyst  NOWA,Scalo,Zdalnie,23520  – 25200  PLN,Sparx Enterprise Architect,/pl/job/system-analyst-scalo-remote-55,23520.0,25200.0,24360.0,True,False
 System Analyst  NOWA,Scalo,Zdalnie,23520  – 25200  PLN,SQL,/pl/job/system-analyst-scalo-remote-55,23520.0,25200.0,24360.0,True,False
 System Analyst  NOWA,Scalo,Zdalnie,23520  – 25200  PLN,PostgreSQL,/pl/job/system-analyst-scalo-remote-55,23520.0,25200.0,24360.0,True,False
@@ -728,48 +330,6 @@ Control Analyst,Mindbox Sp. z o.o.,Kraków,25200  – 29400  PLN,Audits,/pl/job/
 Control Analyst,Mindbox Sp. z o.o.,Kraków,25200  – 29400  PLN,Excel,/pl/job/control-analyst-mindbox-krakow,25200.0,29400.0,27300.0,False,False
 Cyber SDLC Governance Analyst,Antal,Kraków,,IT Control Analyst,/pl/job/cyber-sdlc-governance-analyst-antal-krakow,,,,False,False
 Cyber SDLC Governance Analyst,Antal,Kraków,,Change Analyst,/pl/job/cyber-sdlc-governance-analyst-antal-krakow,,,,False,False
-Junior Business Analyst,"AVENGA (Agencja Pracy, nr KRAZ: 8448)",Warszawa,9240  – 10080  PLN,Jira,/pl/job/junior-business-analyst-avenga-agencja-pracy-nr-kraz-8448-warsaw-1,9240.0,10080.0,9660.0,False,False
-Junior Business Analyst,"AVENGA (Agencja Pracy, nr KRAZ: 8448)",Warszawa,9240  – 10080  PLN,Confluence,/pl/job/junior-business-analyst-avenga-agencja-pracy-nr-kraz-8448-warsaw-1,9240.0,10080.0,9660.0,False,False
-Junior Business Analyst,"AVENGA (Agencja Pracy, nr KRAZ: 8448)",Warszawa,9240  – 10080  PLN,Excel,/pl/job/junior-business-analyst-avenga-agencja-pracy-nr-kraz-8448-warsaw-1,9240.0,10080.0,9660.0,False,False
-Business Systems Analyst,Connectis_,Warszawa,18144  – 18480  PLN,Jira,/pl/job/business-systems-analyst-connectis--warszawa,18144.0,18480.0,18312.0,False,False
-Business Systems Analyst,Connectis_,Warszawa,18144  – 18480  PLN,Confluence,/pl/job/business-systems-analyst-connectis--warszawa,18144.0,18480.0,18312.0,False,False
-Business Systems Analyst,Connectis_,Warszawa,18144  – 18480  PLN,UML,/pl/job/business-systems-analyst-connectis--warszawa,18144.0,18480.0,18312.0,False,False
-Business Analyst,Link Group,Zdalnie,18480  – 21840  PLN,BPMN,/pl/job/business-analyst-link-group-remote-16,18480.0,21840.0,20160.0,True,False
-Business Analyst,Link Group,Zdalnie,18480  – 21840  PLN,COTS,/pl/job/business-analyst-link-group-remote-16,18480.0,21840.0,20160.0,True,False
-Senior Business Analyst,Mindbox Sp. z o.o.,Kraków,22050  – 25200  PLN,Data analysis,/pl/job/senior-business-analyst-mindbox-krakow-8,22050.0,25200.0,23625.0,False,False
-Senior Business Analyst,Mindbox Sp. z o.o.,Kraków,22050  – 25200  PLN,SQL,/pl/job/senior-business-analyst-mindbox-krakow-8,22050.0,25200.0,23625.0,False,False
-Business Analyst,Mindbox Sp. z o.o.,Kraków,21000  – 24150  PLN,DevOps,/pl/job/business-analyst-mindbox-krakow-24,21000.0,24150.0,22575.0,False,False
-Business Analyst,Mindbox Sp. z o.o.,Kraków,21000  – 24150  PLN,Stakeholder management,/pl/job/business-analyst-mindbox-krakow-24,21000.0,24150.0,22575.0,False,False
-Business Systems Analyst III (Salesforce),Box Inc.,Warszawa,19000  PLN,Support,/pl/job/business-systems-analyst-iii-salesforce-box-warsaw,19000.0,,,False,False
-Business Systems Analyst III (Salesforce),Box Inc.,Warszawa,19000  PLN,Salesforce,/pl/job/business-systems-analyst-iii-salesforce-box-warsaw,19000.0,,,False,False
-Business Systems Analyst III (Salesforce),Box Inc.,Warszawa,19000  PLN,QA,/pl/job/business-systems-analyst-iii-salesforce-box-warsaw,19000.0,,,False,False
-Business Systems Analyst III (Salesforce),Box Inc.,Warszawa,19000  PLN,API,/pl/job/business-systems-analyst-iii-salesforce-box-warsaw,19000.0,,,False,False
-IT Business Analyst [M/F],Arche Solutions,Zdalnie,15120  – 18480  PLN,Sparx enterprise architect,/pl/job/it-business-analyst-m-f-arche-solutions-remote,15120.0,18480.0,16800.0,True,False
-Business Analyst,Scalo,Warszawa,18480  – 20160  PLN,Jira,/pl/job/business-analyst-scalo-warszawa-29,18480.0,20160.0,19320.0,False,True
-Business Analyst,Scalo,Warszawa,18480  – 20160  PLN,Confluence,/pl/job/business-analyst-scalo-warszawa-29,18480.0,20160.0,19320.0,False,True
-Business Analyst,Scalo,Warszawa,18480  – 20160  PLN,Jira,/pl/job/business-analyst-scalo-warszawa-28,18480.0,20160.0,19320.0,False,False
-Business Analyst,Scalo,Warszawa,18480  – 20160  PLN,Confluence,/pl/job/business-analyst-scalo-warszawa-28,18480.0,20160.0,19320.0,False,False
-Business Analyst,Scalo,Warszawa,18480  – 20160  PLN,CA,/pl/job/business-analyst-scalo-warszawa-28,18480.0,20160.0,19320.0,False,False
-Business-System Analyst,Scalo,Warszawa,18480  – 20160  PLN,Jira,/pl/job/business-system-analyst-scalo-warszawa-6,18480.0,20160.0,19320.0,False,False
-Business-System Analyst,Scalo,Warszawa,18480  – 20160  PLN,Confluence,/pl/job/business-system-analyst-scalo-warszawa-6,18480.0,20160.0,19320.0,False,False
-Business-System Analyst,Scalo,Warszawa,18480  – 20160  PLN,Axure,/pl/job/business-system-analyst-scalo-warszawa-6,18480.0,20160.0,19320.0,False,False
-Senior Business Analyst with SQL,GFT Poland,Łódź,13900  – 21270  PLN,SQL,/pl/job/senior-business-analyst-with-sql-gft-poland-lodz,13900.0,21270.0,17585.0,False,False
-Senior Business Analyst with SQL,GFT Poland,Łódź,13900  – 21270  PLN,PL/SQL,/pl/job/senior-business-analyst-with-sql-gft-poland-lodz,13900.0,21270.0,17585.0,False,False
-Business Analyst,HSBC Technology Poland,Kraków,18000  – 23000  PLN,Counterparty Credit Risk,/pl/job/business-analyst-hsbc-technology-poland-krakow-4,18000.0,23000.0,20500.0,False,False
-Business Analyst,HSBC Technology Poland,Kraków,18000  – 23000  PLN,PFE,/pl/job/business-analyst-hsbc-technology-poland-krakow-4,18000.0,23000.0,20500.0,False,False
-Business Analyst,HSBC Technology Poland,Kraków,18000  – 23000  PLN,CVA,/pl/job/business-analyst-hsbc-technology-poland-krakow-4,18000.0,23000.0,20500.0,False,False
-Senior Business Analyst,Scalo,Warszawa,16800  – 18480  PLN,Jira,/pl/job/senior-business-analyst-scalo-warszawa-5,16800.0,18480.0,17640.0,False,True
-Senior Business Analyst,Scalo,Warszawa,16800  – 18480  PLN,Confluence,/pl/job/senior-business-analyst-scalo-warszawa-5,16800.0,18480.0,17640.0,False,True
-Transformation Business Analyst,Verita HR,Kraków,23000  – 26000  PLN,Transformation initiatives,/pl/job/transformation-business-analyst-verita-hr-krakow,23000.0,26000.0,24500.0,False,False
-Transformation Business Analyst,Verita HR,Kraków,23000  – 26000  PLN,Requirements gathering,/pl/job/transformation-business-analyst-verita-hr-krakow,23000.0,26000.0,24500.0,False,False
-Business & Systems Analyst,PragmaGO.tech Sp. z o.o.,Kraków,10000  – 14500  PLN,Jira,/pl/job/business-systems-analyst-pragmago-tech-krakow,10000.0,14500.0,12250.0,False,False
-Business & Systems Analyst,PragmaGO.tech Sp. z o.o.,Kraków,10000  – 14500  PLN,Confluence,/pl/job/business-systems-analyst-pragmago-tech-krakow,10000.0,14500.0,12250.0,False,False
-Business & Systems Analyst,PragmaGO.tech Sp. z o.o.,Kraków,10000  – 14500  PLN,Miro,/pl/job/business-systems-analyst-pragmago-tech-krakow,10000.0,14500.0,12250.0,False,False
-Business Analyst,Scalo,Zdalnie,21840  – 25200  PLN,BPMN,/pl/job/business-analyst-scalo-remote-7,21840.0,25200.0,23520.0,True,False
-Business Analyst,Scalo,Zdalnie,21840  – 25200  PLN,UML,/pl/job/business-analyst-scalo-remote-7,21840.0,25200.0,23520.0,True,False
-Business Analyst with second language (German/Spanish/French/Italian/Polish),Innowise,Warszawa,,BPMN,/pl/job/business-analyst-with-second-language-german-spanish-french-italian-polish-innowise-warsaw,,,,False,False
-Business Analyst with second language (German/Spanish/French/Italian/Polish),Innowise,Warszawa,,User stories,/pl/job/business-analyst-with-second-language-german-spanish-french-italian-polish-innowise-warsaw,,,,False,False
-Business Analyst with second language (German/Spanish/French/Italian/Polish),Innowise,Warszawa,,WBS,/pl/job/business-analyst-with-second-language-german-spanish-french-italian-polish-innowise-warsaw,,,,False,False
 Senior Product Analyst  NOWA,Link Group,Zdalnie,19656  – 25200  PLN,Pharma R&D,/pl/job/senior-product-analyst-link-group-remote,19656.0,25200.0,22428.0,True,False
 Senior Product Analyst  NOWA,Link Group,Zdalnie,19656  – 25200  PLN,Procesy laboratoryjne,/pl/job/senior-product-analyst-link-group-remote,19656.0,25200.0,22428.0,True,False
 Senior Product Analyst  NOWA,Link Group,Zdalnie,19656  – 25200  PLN,Zarządzanie danymi naukowymi,/pl/job/senior-product-analyst-link-group-remote,19656.0,25200.0,22428.0,True,False
