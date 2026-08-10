@@ -6,6 +6,12 @@ import pandas as pd
 
 df = pd.read_json("../data/raw/jobs_raw.json")
 
+# Search results included offers unrelated to data/analyst roles
+# (e.g. "Project Manager", "Java Developer"), likely matched by the site's
+# search on description content rather than exact job title. Keep only
+# offers whose title actually relates to analysis/analytics work.
+df = df[df["title"].str.contains("Analyst|Analityk|Analytics|Analiz", case=False, na=False)]
+
 # --- Initial exploration ---
 
 print(df.head())

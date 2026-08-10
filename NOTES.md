@@ -4,6 +4,15 @@ Running list of data limitations and decisions to include in the final README.
 
 ## Limitations
 
+- **Non-analyst offers filtered by title**: search results included some
+  offers unrelated to analytical roles (e.g. "Project Manager", "Java
+  Developer"), likely matched by the site's search on description content
+  rather than exact job title. Offers were kept only if their title
+  contains "Analyst", "Analityk", "Analytics", or "Analiz" (~27 offers
+  removed, ~8% of the scraped dataset). One borderline case ("Data
+  Solution Designer with Python") was excluded despite topical relevance,
+  as a simple, consistent rule was preferred over manual exceptions.
+
 - **Scope limited by robots.txt**: /posting/ and /api/ are disallowed,
   so all data comes from the search results listing only — no access to
   full job descriptions or detail pages. This is the root cause of
