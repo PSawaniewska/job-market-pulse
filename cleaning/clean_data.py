@@ -13,9 +13,9 @@ df = pd.read_json("../data/raw/jobs_raw.json")
 df = df[df["title"].str.contains("Analyst|Analityk|Analytics|Analiz", case=False, na=False)]
 
 # --- Initial exploration ---
-
 print(df.head())
 print(df.info())
+
 
 # --- Salary cleaning ---
 
@@ -46,7 +46,7 @@ df["salary_max"] = pd.to_numeric(df["salary_max"])
 # Note: offers with only a single flat salary (no max) will have mid_salary
 # as NaN too, rather than falling back to salary_min — treating them as
 # missing data is more honest than assuming min == typical salary.
-# This affects only ~1% of offers, so the impact on overall analysis is minimal.
+# Affects 2 offers (~0.6%), so the impact on overall analysis is minimal.
 df["mid_salary"] = (df["salary_min"] + df["salary_max"]) / 2
 
 print(df.info())
@@ -111,11 +111,14 @@ df_skills["skills"] = df_skills["skills"].replace({
 })
 
 # "Business Analyst" is a job role, not a skill — it was tagged on offers
-# by the site alongside real skills. At 53 occurrences it's frequent enough
-# to distort a top-skills ranking, so we exclude it. Other role-like tags
-# (e.g. "Project Manager", "Product Manager") appear too rarely to affect
-# the ranking and are left as-is.
-df_skills = df_skills[df_skills["skills"] != "Business Analyst"]
+# by the site alongside real skills. At 40 occurrences (after title
+# filtering above) it's frequent enough to distort a top-skills ranking,
+# so we exclude it.
+# "Business Analysis" and "Data" are overly broad category tags rather
+# than actual skills, and "angielski"/"polski" are language requirements,
+# not technical/soft skills — all are excluded from skill-frequency analysis.
+non_skill_tags = ["Business Analyst", "Business Analysis", "Data", "angielski", "polski"]
+df_skills = df_skills[~df_skills["skills"].isin(non_skill_tags)]
 
 
 # --- Final cleanup and export ---
