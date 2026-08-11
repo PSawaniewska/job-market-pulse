@@ -65,3 +65,15 @@ Running list of data limitations and decisions to include in the final README.
   from skills_clean.csv, as none represent an actual technical or soft
   skill. Rarer role-like tags (e.g. "Project Manager") appear too
   infrequently to affect the ranking and were left as-is.
+
+- **Seniority level data is too sparse**: only about 18% of job titles
+  say "Junior", "Mid", or "Senior". "Mid" appears in just 2 titles. Because
+  of this, we used a simple average instead of a median for salary by
+  level, and the result should be treated as rough, not exact.
+
+- **Top companies list mixes agencies and direct employers**: several
+  top posters (e.g. Scalo, Ework Group, Link Group, Antal, Devire) are
+  recruitment agencies or software houses hiring for clients, not the
+  actual employer. This wasn't distinguished in the data, so the
+  ranking reflects "who posted the most", not "who's building the
+  largest analyst team".
