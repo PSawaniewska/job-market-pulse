@@ -44,7 +44,6 @@ filtered_skills = df_skills[df_skills["link"].isin(filtered_links)]
 median_salary = filtered_jobs["mid_salary"].median()
 pct_remote = filtered_jobs["is_remote"].mean() * 100
 pct_english = filtered_jobs["has_english"].mean() * 100
-# .index[0] gets the name of the most frequent skill, not the count.
 top_skill = filtered_skills["skills"].value_counts().index[0] if len(filtered_skills) else "N/A"
 
 col1, col2, col3, col4 = st.columns(4)
@@ -53,6 +52,14 @@ col2.metric("Median salary", f"{median_salary:,.0f} PLN" if pd.notna(median_sala
 col3.metric("Remote offers", f"{pct_remote:.1f}%")
 col4.metric("Top skill", top_skill)
 
+# Warn once, globally, if the filtered dataset is too small to be
+# meaningfully representative — applies to every chart below.
+if len(filtered_jobs) < 10:
+    st.warning(
+        f"Only {len(filtered_jobs)} postings match this filter — "
+        "results below may not be statistically meaningful."
+    )
+
 # --- Top skills ---
 
 st.subheader("Top 15 Most In-Demand Skills")
@@ -60,12 +67,15 @@ st.subheader("Top 15 Most In-Demand Skills")
 top_skills_df = filtered_skills["skills"].value_counts().head(15).reset_index()
 top_skills_df.columns = ["skill", "count"]
 
-fig_skills = px.bar(
-    top_skills_df, x="count", y="skill", orientation="h",
-    color_discrete_sequence=["#0B7285"],
-)
-fig_skills.update_layout(yaxis={"categoryorder": "total ascending"}, xaxis_title="Number of postings", yaxis_title="")
-st.plotly_chart(fig_skills, use_container_width=True)
+if len(top_skills_df) > 0:
+    fig_skills = px.bar(
+        top_skills_df, x="count", y="skill", orientation="h",
+        color_discrete_sequence=["#0B7285"],
+    )
+    fig_skills.update_layout(yaxis={"categoryorder": "total ascending"}, xaxis_title="Number of postings", yaxis_title="")
+    st.plotly_chart(fig_skills, use_container_width=True)
+else:
+    st.write("No skills data available for the current filter selection.")
 
 # --- Salary distribution ---
 
@@ -108,15 +118,18 @@ filtered_jobs["experience_level"] = filtered_jobs["title"].apply(get_experience_
 level_counts = filtered_jobs["experience_level"].value_counts().reset_index()
 level_counts.columns = ["level", "count"]
 
-fig_seniority = px.pie(
-    level_counts, names="level", values="count",
-    color_discrete_sequence=px.colors.sequential.Teal,
-)
-st.plotly_chart(fig_seniority, use_container_width=True)
-st.caption(
-    "Most postings don't specify a seniority level in the title, "
-    "so this breakdown should be read as directional, not exact."
-)
+if len(level_counts) > 0:
+    fig_seniority = px.pie(
+        level_counts, names="level", values="count",
+        color_discrete_sequence=px.colors.sequential.Teal,
+    )
+    st.plotly_chart(fig_seniority, use_container_width=True)
+    st.caption(
+        "Most postings don't specify a seniority level in the title, "
+        "so this breakdown should be read as directional, not exact."
+    )
+else:
+    st.write("No data available for the current filter selection.")
 
 # --- English / remote share ---
 
@@ -137,21 +150,31 @@ st.plotly_chart(fig_summary, use_container_width=True)
 # --- Top cities ---
 
 st.subheader("Top Cities for On-Site Postings")
-st.caption(
-    "Postings listed at multiple cities are counted only under their "
-    "primary location, which may understate totals for some cities."
-)
 
-on_site_jobs = filtered_jobs[filtered_jobs["location"] != "Zdalnie"]
-top_cities_df = on_site_jobs["location"].value_counts().head(10).reset_index()
-top_cities_df.columns = ["city", "count"]
+if selected_cities:
+    st.caption(
+        "This chart is most useful without a city filter applied — "
+        "clear the City filter to see the distribution across all cities."
+    )
+else:
+    st.caption(
+        "Postings listed at multiple cities are counted only under their "
+        "primary location, which may understate totals for some cities."
+    )
 
-fig_cities = px.bar(
-    top_cities_df, x="count", y="city", orientation="h",
-    color_discrete_sequence=["#0B7285"],
-)
-fig_cities.update_layout(yaxis={"categoryorder": "total ascending"}, xaxis_title="Number of postings", yaxis_title="")
-st.plotly_chart(fig_cities, use_container_width=True)
+    on_site_jobs = filtered_jobs[filtered_jobs["location"] != "Zdalnie"]
+    top_cities_df = on_site_jobs["location"].value_counts().head(10).reset_index()
+    top_cities_df.columns = ["city", "count"]
+
+    if len(top_cities_df) > 0:
+        fig_cities = px.bar(
+            top_cities_df, x="count", y="city", orientation="h",
+            color_discrete_sequence=["#0B7285"],
+        )
+        fig_cities.update_layout(yaxis={"categoryorder": "total ascending"}, xaxis_title="Number of postings", yaxis_title="")
+        st.plotly_chart(fig_cities, use_container_width=True)
+    else:
+        st.write("No on-site postings available for the current filter selection.")
 
 # --- Top companies ---
 
@@ -161,12 +184,15 @@ st.caption("Several top posters are recruitment agencies hiring for multiple cli
 top_companies_df = filtered_jobs["company"].value_counts().head(10).reset_index()
 top_companies_df.columns = ["company", "count"]
 
-fig_companies = px.bar(
-    top_companies_df, x="count", y="company", orientation="h",
-    color_discrete_sequence=["#0B7285"],
-)
-fig_companies.update_layout(yaxis={"categoryorder": "total ascending"}, xaxis_title="Number of postings", yaxis_title="")
-st.plotly_chart(fig_companies, use_container_width=True)
+if len(top_companies_df) > 0:
+    fig_companies = px.bar(
+        top_companies_df, x="count", y="company", orientation="h",
+        color_discrete_sequence=["#0B7285"],
+    )
+    fig_companies.update_layout(yaxis={"categoryorder": "total ascending"}, xaxis_title="Number of postings", yaxis_title="")
+    st.plotly_chart(fig_companies, use_container_width=True)
+else:
+    st.write("No company data available for the current filter selection.")
 
 # --- Skill popularity vs salary ---
 
