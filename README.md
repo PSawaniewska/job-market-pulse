@@ -146,6 +146,8 @@ these limitations, are in [NOTES.md](NOTES.md).
 
 ## Screenshots
 
+<img width="1919" height="859" alt="Zrzut ekranu 2026-08-13 221554" src="https://github.com/user-attachments/assets/ade0eeb7-59c9-416c-a643-c9a8af7a1256" />
+<img width="1919" height="861" alt="Zrzut ekranu 2026-08-13 221738" src="https://github.com/user-attachments/assets/2e55f4bb-509c-4718-9c37-a9a63dcd8771" />
 
 ## About
 
