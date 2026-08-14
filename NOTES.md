@@ -77,20 +77,3 @@ Running list of data limitations and decisions to include in the final README.
   actual employer. This wasn't distinguished in the data, so the
   ranking reflects "who posted the most", not "who's building the
   largest analyst team".
-
-## README to-do
-
-## README to-do (Phase 6)
-
-- Add "Data Source & Ethics" section: data sourced from nofluffjobs.com,
-  scraped in compliance with robots.txt; job posting content belongs to
-  NoFluffJobs/employers, this project extracts only factual data points
-  (title, company, salary range, skills tags, location) for
-  educational/portfolio analysis — not a redistribution of original
-  listing content.
-- Add general disclaimer that this is a learning/portfolio project —
-  findings illustrate methodology on a self-collected, limited dataset,
-  not a definitive market survey.
-- Review ALL existing "Limitations" bullets above and incorporate the
-  relevant ones into README sections (e.g. multi-location caveat →
-  "Top cities" writeup, sparse seniority data → seniority chart writeup).
