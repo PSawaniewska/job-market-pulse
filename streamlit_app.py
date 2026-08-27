@@ -6,6 +6,7 @@ in Poland, based on data scraped from NoFluffJobs.com.
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+from cleaning.utils import get_experience_level
 
 st.set_page_config(page_title="Job Market Pulse", layout="wide")
 
@@ -100,18 +101,6 @@ else:
 # --- Seniority distribution ---
 
 st.subheader("Seniority Distribution Across Postings")
-
-
-def get_experience_level(title):
-    if "Junior" in title:
-        return "Junior"
-    elif "Senior" in title:
-        return "Senior"
-    elif "Mid" in title:
-        return "Mid"
-    else:
-        return "Not specified"
-
 
 filtered_jobs = filtered_jobs.copy()
 filtered_jobs["experience_level"] = filtered_jobs["title"].apply(get_experience_level)

@@ -3,6 +3,7 @@ Cleans raw scraped job data and prepares it for analysis.
 """
 
 import pandas as pd
+from utils import check_english
 
 df = pd.read_json("../data/raw/jobs_raw.json")
 
@@ -94,16 +95,7 @@ df["is_remote"] = df["location"] == "Zdalnie"
 
 # --- Language requirement flag ---
 
-# Checked all unique skill tags in the dataset beforehand — English
-# requirements are recorded only as "Język angielski" or "angielski",
-# so no other variants need to be handled here.
-def check_english(skills_list):
-    if "Język angielski" in skills_list or "angielski" in skills_list:
-        return True
-    return False
-
 df["has_english"] = df["skills"].apply(check_english)
-
 
 # --- Skills processing ---
 
