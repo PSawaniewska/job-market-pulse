@@ -3,7 +3,8 @@ Cleans raw scraped job data and prepares it for analysis.
 """
 
 import pandas as pd
-from utils import check_english
+from utils import check_english, is_excluded_business_analyst
+
 
 df = pd.read_json("../data/raw/jobs_raw.json")
 
@@ -19,10 +20,7 @@ df = df[df["title"].str.contains("Analyst|Analityk|Analytics|Analiz", case=False
 # Hybrid titles explicitly mentioning "Data" (e.g. "Data Business Analyst")
 # were kept, as they're closer to the project's actual scope.
 # See NOTES.md for the full comparison of exclusion approaches considered.
-business_analyst_pattern = "Business.{0,3}Analyst|Business.{0,3}System.{0,3}Analyst|System.{0,3}Business.{0,3}Analyst"
-is_pure_business_analyst = df["title"].str.contains(business_analyst_pattern, case=False, na=False, regex=True)
-has_data_in_title = df["title"].str.contains("Data", case=False, na=False)
-df = df[~(is_pure_business_analyst & ~has_data_in_title)]
+df = df[~df["title"].apply(is_excluded_business_analyst)]
 
 # --- Initial exploration ---
 print(df.head())
