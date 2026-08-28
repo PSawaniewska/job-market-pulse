@@ -74,7 +74,7 @@ if len(top_skills_df) > 0:
         color_discrete_sequence=["#0B7285"],
     )
     fig_skills.update_layout(yaxis={"categoryorder": "total ascending"}, xaxis_title="Number of postings", yaxis_title="")
-    st.plotly_chart(fig_skills, use_container_width=True)
+    st.plotly_chart(fig_skills, width="stretch")
 else:
     st.write("No skills data available for the current filter selection.")
 
@@ -94,7 +94,7 @@ if len(salary_data) > 0:
         annotation_text=f"Median: {median_salary:,.0f} PLN",
     )
     fig_salary.update_layout(xaxis_title="Monthly salary (PLN, gross)", yaxis_title="Number of postings")
-    st.plotly_chart(fig_salary, use_container_width=True)
+    st.plotly_chart(fig_salary, width="stretch")
 else:
     st.write("No salary data available for the current filter selection.")
 
@@ -112,7 +112,7 @@ if len(level_counts) > 0:
         level_counts, names="level", values="count",
         color_discrete_sequence=px.colors.sequential.Teal,
     )
-    st.plotly_chart(fig_seniority, use_container_width=True)
+    st.plotly_chart(fig_seniority, width="stretch")
     st.caption(
         "Most postings don't specify a seniority level in the title, "
         "so this breakdown should be read as directional, not exact."
@@ -134,7 +134,7 @@ fig_summary = px.bar(
     color_discrete_sequence=["#0B7285"],
 )
 fig_summary.update_layout(xaxis_title="Percentage of postings", yaxis_title="", xaxis_range=[0, 100])
-st.plotly_chart(fig_summary, use_container_width=True)
+st.plotly_chart(fig_summary, width="stretch")
 
 # --- Top cities ---
 
@@ -161,7 +161,7 @@ else:
             color_discrete_sequence=["#0B7285"],
         )
         fig_cities.update_layout(yaxis={"categoryorder": "total ascending"}, xaxis_title="Number of postings", yaxis_title="")
-        st.plotly_chart(fig_cities, use_container_width=True)
+        st.plotly_chart(fig_cities, width="stretch")
     else:
         st.write("No on-site postings available for the current filter selection.")
 
@@ -179,7 +179,7 @@ if len(top_companies_df) > 0:
         color_discrete_sequence=["#0B7285"],
     )
     fig_companies.update_layout(yaxis={"categoryorder": "total ascending"}, xaxis_title="Number of postings", yaxis_title="")
-    st.plotly_chart(fig_companies, use_container_width=True)
+    st.plotly_chart(fig_companies, width="stretch")
 else:
     st.write("No company data available for the current filter selection.")
 
@@ -201,7 +201,7 @@ if len(skill_salary) > 0:
         xaxis_title="Number of postings (popularity)",
         yaxis_title="Average salary (PLN, gross)",
     )
-    st.plotly_chart(fig_bubble, use_container_width=True)
+    st.plotly_chart(fig_bubble, width="stretch")
     st.caption("Only skills appearing in at least 5 postings (within the current filter) are shown, for reliability.")
 else:
     st.write("Not enough data for this chart with the current filter selection.")
