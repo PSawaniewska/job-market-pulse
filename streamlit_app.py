@@ -110,8 +110,9 @@ level_counts.columns = ["level", "count"]
 if len(level_counts) > 0:
     fig_seniority = px.pie(
         level_counts, names="level", values="count",
-        color_discrete_sequence=px.colors.sequential.Teal,
+        color_discrete_sequence=["#0B7285", "#66A9B8", "#B8DDE1", "#1B4D5C"],
     )
+    fig_seniority.update_traces(texttemplate="%{percent:.0%}")
     st.plotly_chart(fig_seniority, width="stretch")
     st.caption(
         "Most postings don't specify a seniority level in the title, "
