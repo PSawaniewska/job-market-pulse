@@ -39,18 +39,21 @@ job-market-pulse/
 ├── scraper/
 │   └── nofluffjobs_scraper.py    # collects raw job postings
 ├── cleaning/
-│   └── clean_data.py             # cleans and filters raw data
+│   ├── clean_data.py             # cleans and filters raw data
+│   └── utils.py                  # shared helper functions (tested)
 ├── database/
 │   └── load_data.py              # loads cleaned data into SQLite
 ├── notebooks/
 │   ├── 01_sql_analysis.ipynb     # SQL queries answering key questions
 │   └── 02_visualizations.ipynb   # charts and business insights
+├── tests/
+│   └── test_utils.py             # unit tests for helper functions
 ├── data/
 │   ├── raw/                      # scraped, unprocessed data
 │   └── processed/                # cleaned CSVs
 ├── streamlit_app.py              # interactive dashboard
 ├── requirements.txt
-└── NOTES.md                      # development notes and data-quality decisions
+└── NOTES.md                      # development notes and data-quality decisionsotes and data-quality decisions
 ```
 
 ## How to Run
@@ -84,6 +87,10 @@ job-market-pulse/
 6. Launch the dashboard:
    ```
    streamlit run streamlit_app.py
+   ```
+7. Run the tests (optional):
+   ```
+   pytest
    ```
 
 ## Methodology
